@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://mayo-bfbb02aa.zappy5.app
+https://example.com
 MAYO מציעה מקלדות גיימינג, עכברים ומשטחים בעיצוב חדשני לגיימרים שרוצים לנצח. היכנסו עכשיו וגלו ציוד שישדרג כל לחיצה.
 
 ### מדריך ציוד
-https://mayo-bfbb02aa.zappy5.app/gear-guide
+https://example.com/gear-guide
 איך בוחרים ציוד גיימינג שמתאים בדיוק לסגנון שלכם? במדריך של MAYO תמצאו טיפים מקצועיים, המלצות חמות והשוואות שיעשו סדר. קראו עוד.
 
 ### אודות MAYO
-https://mayo-bfbb02aa.zappy5.app/about
+https://example.com/about
 MAYO נולדה מתוך תשוקה לגיימינג ורצון לשבור מוסכמות. הכירו את החזון, הצוות והמחויבות לאיכות ללא פשרות. הצטרפו למהפכת הגיימינג.
 
 ### ביקורות קהילה
-https://mayo-bfbb02aa.zappy5.app/reviews
+https://example.com/reviews
 ביקורות אמיתיות מהקהילה על מקלדות, עכברים ומשטחים של MAYO. גלו מה גיימרים חושבים ואיך הציוד שלנו שינה להם את המשחק. שתפו גם אתם.
 
 ### צור קשר
-https://mayo-bfbb02aa.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת ציוד גיימינג? רוצים לשתף רעיון? צרו קשר עם צוות MAYO ונחזור אליכם במהירות עם חיוך. אנחנו כאן בשבילכם.
 
 ### Products
-https://mayo-bfbb02aa.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - MAYO
 
 ### Cart
-https://mayo-bfbb02aa.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://mayo-bfbb02aa.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://mayo-bfbb02aa.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://mayo-bfbb02aa.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://mayo-bfbb02aa.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://mayo-bfbb02aa.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - MAYO
 
 ### Category
-https://mayo-bfbb02aa.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - MAYO
 
 ### תודה שפניתם אל MAYO
-https://mayo-bfbb02aa.zappy5.app/thank-you
+https://example.com/thank-you
 MAYO - תודה שפניתם אל MAYO
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://mayo-bfbb02aa.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://mayo-bfbb02aa.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://mayo-bfbb02aa.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Gaming E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://mayo-bfbb02aa.zappy5.app/sitemap.xml
-- Robots: https://mayo-bfbb02aa.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://mayo-bfbb02aa.zappy5.app/llms-full.txt
-- Products (JSON): https://mayo-bfbb02aa.zappy5.app/products.json
-- Products (Google Merchant RSS): https://mayo-bfbb02aa.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
