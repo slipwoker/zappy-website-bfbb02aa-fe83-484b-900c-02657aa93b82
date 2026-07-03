@@ -4,6 +4,21 @@
     <title>MAYO</title>
     <link>https://example.com</link>
     <description>Product feed for MAYO</description>
-    <lastBuildDate>Fri, 03 Jul 2026 22:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 22:29:46 GMT</lastBuildDate>
+    <item>
+      <g:id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db</g:id>
+      <g:title>ATTACK SHARCK</g:title>
+      <g:description>ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.</g:description>
+      <g:link>https://example.com/product/attack-sharck-t2qmfa</g:link>
+      <g:image_link>https://example.com/assets/product-1783117236082-o3j32k.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117248855-2s8li.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117260177-nxy5g.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117271208-zeca0o.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>270.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
   </channel>
 </rss>
