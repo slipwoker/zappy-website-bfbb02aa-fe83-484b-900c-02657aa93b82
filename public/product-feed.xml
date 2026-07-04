@@ -4,7 +4,71 @@
     <title>MAYO</title>
     <link>https://example.com</link>
     <description>Product feed for MAYO</description>
-    <lastBuildDate>Sat, 04 Jul 2026 23:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 23:19:51 GMT</lastBuildDate>
+    <item>
+      <g:id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e__55709351-445a-4259-a751-29b15b5cec11</g:id>
+      <g:title>ATTACK SHARK R3 - שחור</g:title>
+      <g:description>כבר הגיימינג שמציב סטנדרט חדש לביצועי קצה – משקל אפסי, מהירות שיא ובמחיר הכי זול בישראל! ה-Attack Shark R3 הוא עכבר מגנזיום/אולטרה-לייט אלחוטי שתוכנן במיוחד לגיימרים שרוצים ביצועים ברמה של מקצועני eSports בלי לשבור תוכנית חיסכון. עם משקל נוצה קיצוני, חיישן הדגל PAW3395 המדויק בעולם, וקצב רענון מטורף (Polling Rate) של עד 8K – אתם הולכים להרגיש את ההבדל מהקליק הראשון.</g:description>
+      <g:link>https://example.com/product/attack-shark-r3-dxqb0o</g:link>
+      <g:item_group_id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783206658779-m5cknk.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206671524-d4m59.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206682266-ma0rkg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206691371-r1drq9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e__68869f96-2d25-4778-b8be-d232f493c409</g:id>
+      <g:title>ATTACK SHARK R3 - לבן</g:title>
+      <g:description>כבר הגיימינג שמציב סטנדרט חדש לביצועי קצה – משקל אפסי, מהירות שיא ובמחיר הכי זול בישראל! ה-Attack Shark R3 הוא עכבר מגנזיום/אולטרה-לייט אלחוטי שתוכנן במיוחד לגיימרים שרוצים ביצועים ברמה של מקצועני eSports בלי לשבור תוכנית חיסכון. עם משקל נוצה קיצוני, חיישן הדגל PAW3395 המדויק בעולם, וקצב רענון מטורף (Polling Rate) של עד 8K – אתם הולכים להרגיש את ההבדל מהקליק הראשון.</g:description>
+      <g:link>https://example.com/product/attack-shark-r3-dxqb0o</g:link>
+      <g:item_group_id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783206671524-d4m59.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206658779-m5cknk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206682266-ma0rkg.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206691371-r1drq9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e__7aa385ac-9b63-40f1-b95b-ce3d10a20492</g:id>
+      <g:title>ATTACK SHARK R3 - אפור</g:title>
+      <g:description>כבר הגיימינג שמציב סטנדרט חדש לביצועי קצה – משקל אפסי, מהירות שיא ובמחיר הכי זול בישראל! ה-Attack Shark R3 הוא עכבר מגנזיום/אולטרה-לייט אלחוטי שתוכנן במיוחד לגיימרים שרוצים ביצועים ברמה של מקצועני eSports בלי לשבור תוכנית חיסכון. עם משקל נוצה קיצוני, חיישן הדגל PAW3395 המדויק בעולם, וקצב רענון מטורף (Polling Rate) של עד 8K – אתם הולכים להרגיש את ההבדל מהקליק הראשון.</g:description>
+      <g:link>https://example.com/product/attack-shark-r3-dxqb0o</g:link>
+      <g:item_group_id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783206682266-ma0rkg.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206658779-m5cknk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206671524-d4m59.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206691371-r1drq9.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e__92045530-e013-4bd4-b286-f220c135cb71</g:id>
+      <g:title>ATTACK SHARK R3 - סגול כחול</g:title>
+      <g:description>כבר הגיימינג שמציב סטנדרט חדש לביצועי קצה – משקל אפסי, מהירות שיא ובמחיר הכי זול בישראל! ה-Attack Shark R3 הוא עכבר מגנזיום/אולטרה-לייט אלחוטי שתוכנן במיוחד לגיימרים שרוצים ביצועים ברמה של מקצועני eSports בלי לשבור תוכנית חיסכון. עם משקל נוצה קיצוני, חיישן הדגל PAW3395 המדויק בעולם, וקצב רענון מטורף (Polling Rate) של עד 8K – אתם הולכים להרגיש את ההבדל מהקליק הראשון.</g:description>
+      <g:link>https://example.com/product/attack-shark-r3-dxqb0o</g:link>
+      <g:item_group_id>e421651c-b26e-4a6a-b03a-ce8c1e4d868e</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783206691371-r1drq9.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206658779-m5cknk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206671524-d4m59.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783206682266-ma0rkg.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
     <item>
       <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__451671ed-641c-48b2-9a1a-6d2e7985aa58</g:id>
       <g:title>AULA F75 - אפור</g:title>

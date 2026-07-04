@@ -80,7 +80,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 6**
+**Total active products: 7**
+
+### ATTACK SHARK R3
+https://example.com/product/attack-shark-r3-dxqb0o
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: עכברי גיימינג
+- Brand: ATTACK SHARK
+- Description: כבר הגיימינג שמציב סטנדרט חדש לביצועי קצה – משקל אפסי, מהירות שיא ובמחיר הכי זול בישראל! ה-Attack Shark R3 הוא עכבר מגנזיום/אולטרה-לייט אלחוטי שתוכנן במיוחד לגיימרים שרוצים ביצועים ברמה של מקצועני eSports בלי לשבור תוכנית חיסכון. עם משקל נוצה קיצוני, חיישן הדגל PAW3395 המדויק בעולם, וקצב רענון מטורף (Polling Rate) של עד 8K – אתם הולכים להרגיש את ההבדל מהקליק הראשון.
+- Image: https://example.com/assets/product-1783206658779-m5cknk.webp
 
 ### AULA F75
 https://example.com/product/aula-f75-bsx7p4

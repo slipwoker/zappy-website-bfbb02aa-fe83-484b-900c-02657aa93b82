@@ -1,10 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-04T23:08:53.377Z",
+  "generated_at": "2026-07-04T23:19:51.337Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 6,
+  "count": 7,
   "products": [
+    {
+      "id": "e421651c-b26e-4a6a-b03a-ce8c1e4d868e",
+      "slug": "attack-shark-r3-dxqb0o",
+      "name": "ATTACK SHARK R3",
+      "name_translations": {},
+      "description": "<p>ביצועי על במשקל נוצה: עכבר גיימינג אלחוטי Attack Shark R3</p><p>מוכנים לשלוט במשחק? ה-<strong>Attack Shark R3</strong> נולד כדי להעניק לכם את היתרון התחרותי המוחלט בכל קרב. שילוב מושלם של חומרים מתקדמים, הנדסת אנוש ארגונומית וטכנולוגיית החיישנים המובילה בשוק, הופכים אותו לאחד העכברים המבוקשים ביותר בקרב קהילת הגיימינג העולמית כיום.</p><p>למה ה-Attack Shark R3 הוא הבחירה המושלמת עבורכם?</p><ul><li><strong>משקל אולטרה-לייט קיצוני:</strong> תנועה חלקה ומהירה ללא מאמץ! העכבר שוקל גרמים בודדים, מה שמפחית את העייפות בכף היד גם בסשנים ארוכים של משחק ומאפשר לכם להגיב בשבריר שנייה.</li><li><strong>חיישן הדגל PAW3395 (רגישות עד 26,000 DPI):</strong> החיישן המדויק ביותר שקיים בשוק, המבטיח מעקב מושלם (Pixel-Perfect Tracking) ללא קפיצות או דיליי, כדי שאף תנועה שלכם לא תתפספס.</li><li><strong>קצב רענון מטורף (עד 8000Hz Polling Rate במצב נתמך):</strong> זמן תגובה אפסי שמספק חוויית משחק חלקה פי 8 מעכברי גיימינג רגילים – יתרון עצום במשחקי FPS תחרותיים כמו קאונטר סטרייק, ואלורנט או פורטנייט.</li><li><strong>קישוריות משולשת (Triple-Mode):</strong> גמישות מקסימלית על השולחן! חיבור אלחוטי 2.4GHz יציב לגיימינג, חיבור Bluetooth לשימוש יום-יומי ולפטופים, או חיבור חוטי באמצעות כבל Type-C קל וגמיש במיוחד.</li><li><strong>סוויצ'ים עמידים במיוחד למאות מיליוני לחיצות:</strong> קליקים חדים, טקטיליים ומהירים שמגיבים מיידית ומחזיקים מעמד לאורך שנים ללא תופעות של דאבל-קליק.</li></ul><p>מפרט טכני בקטנה:</p><ul><li><strong>מותג:</strong> Attack Shark</li><li><strong>דגם:</strong> R3</li><li><strong>חיישן:</strong> PixArt PAW3395 מקצועי</li><li><strong>סוג חיבור:</strong> אלחוטי 2.4GHz / קו Bluetooth / כבל Type-C</li><li><strong>רגישות מקסימלית:</strong> 26,000 DPI</li><li><strong>קצב הצבעה/רענון:</strong> תומך עד 8000Hz (בהתאם למקלט)</li></ul>",
+      "short_description": "כבר הגיימינג שמציב סטנדרט חדש לביצועי קצה – משקל אפסי, מהירות שיא ובמחיר הכי זול בישראל!\n\nה-Attack Shark R3 הוא עכבר מגנזיום/אולטרה-לייט אלחוטי שתוכנן במיוחד לגיימרים שרוצים ביצועים ברמה של מקצועני eSports בלי לשבור תוכנית חיסכון. עם משקל נוצה קיצוני, חיישן הדגל PAW3395 המדויק בעולם, וקצב רענון מטורף (Polling Rate) של עד 8K – אתם הולכים להרגיש את ההבדל מהקליק הראשון.",
+      "sku": null,
+      "brand": "ATTACK SHARK",
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783206658779-m5cknk.webp",
+        "https://example.com/assets/product-1783206671524-d4m59.webp",
+        "https://example.com/assets/product-1783206682266-ma0rkg.webp",
+        "https://example.com/assets/product-1783206691371-r1drq9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/attack-shark-r3-dxqb0o",
+      "categories": [
+        "עכברי גיימינג"
+      ],
+      "updated_at": "2026-07-04T23:18:18.468Z"
+    },
     {
       "id": "71c2a614-b420-45ae-ab9c-0d7534f9cd44",
       "slug": "aula-f75-bsx7p4",
