@@ -4,18 +4,49 @@
     <title>MAYO</title>
     <link>https://example.com</link>
     <description>Product feed for MAYO</description>
-    <lastBuildDate>Fri, 03 Jul 2026 22:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:14:28 GMT</lastBuildDate>
+    <item>
+      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:id>
+      <g:title>ATTACK SHARK X3</g:title>
+      <g:description>ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-ix73o2</g:link>
+      <g:image_link>https://example.com/assets/product-1783120947523-xnfrql.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120961444-cqtzu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120981627-r3fhfs.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121039999-seziwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121118913-9dbkq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121130031-u36opn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>df20c34b-23c6-443d-ae7b-3ae145be56bd</g:id>
+      <g:title>ATTACK SHARK X3 PRO</g:title>
+      <g:description>ה-ATTACK SHARK X3 PRO הוא עכבר גיימינג אלחוטי סופר-קל משקל המציע ביצועים של פרו-פליירים במחיר שבור. עם משקל של 49 גרם בלבד, חיישן הדגל PixArt 3395 ברגישות של עד 26,000 DPI, ותמיכה בקצב רענון מהיר במיוחד לאפס דיליי, הוא מספק דיוק מושלם ותגובה מיידית בכל משחק תחרותי. העכבר כולל סוללה חזקה, עיצוב ארגונומי נוח לכף היד, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) לחופש תנועה מקסימלי.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-pro-dnkl0j</g:link>
+      <g:image_link>https://example.com/assets/product-1783119307333-7al91o.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783119317549-gjxsi7.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>219.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
     <item>
       <g:id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db</g:id>
-      <g:title>ATTACK SHARCK</g:title>
+      <g:title>ATTACK SHARCK R5 ULTRA</g:title>
       <g:description>ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.</g:description>
-      <g:link>https://example.com/product/attack-sharck-t2qmfa</g:link>
+      <g:link>https://example.com/product/attack-sharck-r5-ultra-7ewyiw</g:link>
       <g:image_link>https://example.com/assets/product-1783117236082-o3j32k.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783117248855-2s8li.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783117260177-nxy5g.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783117271208-zeca0o.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>270.00 ILS</g:price>
+      <g:price>280.00 ILS</g:price>
+      <g:sale_price>270.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
       <g:brand>ATTACK SHARK</g:brand>
       <g:product_type>עכברי גיימינג</g:product_type>

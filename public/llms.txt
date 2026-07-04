@@ -80,11 +80,29 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 3**
 
-### ATTACK SHARCK
-https://example.com/product/attack-sharck-t2qmfa
-- Price: 270.00 ILS
+### ATTACK SHARK X3
+https://example.com/product/attack-shark-x3-ix73o2
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: עכברי גיימינג
+- Brand: ATTACK SHARK
+- Description: ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.
+- Image: https://example.com/assets/product-1783120947523-xnfrql.webp
+
+### ATTACK SHARK X3 PRO
+https://example.com/product/attack-shark-x3-pro-dnkl0j
+- Price: 219.00 ILS
+- Availability: In stock
+- Category: עכברי גיימינג
+- Brand: ATTACK SHARK
+- Description: ה-ATTACK SHARK X3 PRO הוא עכבר גיימינג אלחוטי סופר-קל משקל המציע ביצועים של פרו-פליירים במחיר שבור. עם משקל של 49 גרם בלבד, חיישן הדגל PixArt 3395 ברגישות של עד 26,000 DPI, ותמיכה בקצב רענון מהיר במיוחד לאפס דיליי, הוא מספק דיוק מושלם ותגובה מיידית בכל משחק תחרותי. העכבר כולל סוללה חזקה, עיצוב ארגונומי נוח לכף היד, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) לחופש תנועה מקסימלי.
+- Image: https://example.com/assets/product-1783119307333-7al91o.webp
+
+### ATTACK SHARCK R5 ULTRA
+https://example.com/product/attack-sharck-r5-ultra-7ewyiw
+- Price: 270.00 ILS (sale, was 280.00 ILS)
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: ATTACK SHARK
