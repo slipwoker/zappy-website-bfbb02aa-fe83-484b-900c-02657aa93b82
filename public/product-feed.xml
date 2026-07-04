@@ -4,7 +4,21 @@
     <title>MAYO</title>
     <link>https://example.com</link>
     <description>Product feed for MAYO</description>
-    <lastBuildDate>Sat, 04 Jul 2026 14:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 15:21:41 GMT</lastBuildDate>
+    <item>
+      <g:id>05b47094-9e51-4b70-9b05-0e29d9e31767</g:id>
+      <g:title>LOGITECH G PRO X SUPERLIGHT</g:title>
+      <g:description>עכבר הגיימינג האלחוטי שכבש את עולם ה-Esports ה-Logitech G PRO X Superlight הוא הבחירה המועדפת על גיימרים מקצוענים ב-Fortnite, Rainbow Six Siege ומשחקים תחרותיים אחרים. עם עיצוב אולטרה-לייט (Ultra-lightweight) קל משקל פורץ דרך, חיישן HERO מדויק וטכנולוגיית LIGHTSPEED אלחוטית עם אפס דיליי – אתם מקבלים מהירות מטורפת ותנועה חלקה ללא מאמץ.</g:description>
+      <g:link>https://example.com/product/logitech-g-pro-x-superlight-fusgg5</g:link>
+      <g:image_link>https://example.com/assets/product-1783177315634-mi7t4.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783177326383-5vo7xq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783177342468-7b6azb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>399.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>LOGITECH</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
     <item>
       <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__2942bcb1-18c4-466b-b536-2386b6240764</g:id>
       <g:title>ATTACK SHARK X68HE - ללא כבל</g:title>

@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-04T14:45:29.582Z",
+  "generated_at": "2026-07-04T15:21:41.675Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 4,
+  "count": 5,
   "products": [
+    {
+      "id": "05b47094-9e51-4b70-9b05-0e29d9e31767",
+      "slug": "logitech-g-pro-x-superlight-fusgg5",
+      "name": "LOGITECH G PRO X SUPERLIGHT",
+      "name_translations": {},
+      "description": "<p>שליטה בידיים שלך: עכבר גיימינג אלחוטי</p><p> Logitech G PRO X SUPERLIGHT</p><p><br></p><p>אם אתם רוצים לקחת את הביצועים שלכם לרמה הבאה, אתם חייבים ציוד שלא יעכב אתכם. ה-Logitech G PRO X Superlight בעיצוב השחור הנקי שלו נולד במטרה אחת בלבד: להסיר כל מכשול בינכם לבין הניצחון. הוא מציע שילוב מושלם של הנדסת אנוש מתקדמת, משקל אפסי ואמינות אלחוטית ברמה הגבוהה ביותר בעולם.</p><p>למה הגיימרים המובילים בעולם בוחרים בו?</p><ul><li><strong>משקל אפסי, ביצועים מקסימליים:</strong> עיצוב אולטרה-לייט דק ומתקדם הופך אותו לאחד מעכברי הגיימינג הקלים ביותר בשוק, ומאפשר לכם לבצע פליקים מהירים ותנועות חדות בלי לעייף את כף היד גם בסשנים ארוכים.</li><li><strong>טכנולוגיית LIGHTSPEED אלחוטית:</strong> תשכחו מהכבלים שמפריעים על הפאד ומגבילים אתכם. החיבור האלחוטי של לוג'יטק מספק קצב תגובה סופר-מהיר ויציב במיוחד עם אפס דיליי, בדיוק כמו עכבר חוטי מקצועי.</li><li><strong>חיישן HERO תחרותי ומדויק:</strong> הלב של העכבר הוא חיישן ה-HERO המפורסם, המעניק מעקב מדויק ועקבי בצורה יוצאת דופן, ללא החלקות או עיוותים, כדי שכל ירייה שלכם תפגע בול במטרה.</li><li><strong>עיצוב מינימליסטי וארגונומי:</strong> מבנה חלק ונקי שמתאים בצורה מושלמת לכף היד, ומחליק בצורה מושלמת על כל משטח עבודה או Deskpad בזכות רגליות ה-PTFE האיכותיות שלו.</li></ul><p>מפרט טכני:</p><ul><li><strong>מותג:</strong> Logitech G</li><li><strong>חיבור:</strong> אלחוטי מתקדם (LIGHTSPEED Wireless)</li><li><strong>משקל:</strong> אולטרה-לייט (Ultra-lightweight) קל משקל</li><li><strong>חיישן:</strong> HERO מקצועי לתחרויות</li><li><strong>צבע:</strong> שחור קלאסי (Black)</li><li><strong>תאימות:</strong> מתאים למחשב PC ולשדרוג כל עמדת גיימינג מנצחת</li></ul><p><br></p>",
+      "short_description": "עכבר הגיימינג האלחוטי שכבש את עולם ה-Esports \nה-Logitech G PRO X Superlight הוא הבחירה המועדפת על גיימרים מקצוענים ב-Fortnite, Rainbow Six Siege ומשחקים תחרותיים אחרים. עם עיצוב אולטרה-לייט (Ultra-lightweight) קל משקל פורץ דרך, חיישן HERO מדויק וטכנולוגיית LIGHTSPEED אלחוטית עם אפס דיליי – אתם מקבלים מהירות מטורפת ותנועה חלקה ללא מאמץ.",
+      "sku": null,
+      "brand": "LOGITECH",
+      "price": 399,
+      "base_price": 399,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783177315634-mi7t4.webp",
+        "https://example.com/assets/product-1783177326383-5vo7xq.webp",
+        "https://example.com/assets/product-1783177342468-7b6azb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/logitech-g-pro-x-superlight-fusgg5",
+      "categories": [
+        "עכברי גיימינג"
+      ],
+      "updated_at": "2026-07-04T15:10:43.528Z"
+    },
     {
       "id": "f2e8c65a-7979-48e3-ba98-cb4406d0e3ad",
       "slug": "attack-shark-x68he-dpkuwx",

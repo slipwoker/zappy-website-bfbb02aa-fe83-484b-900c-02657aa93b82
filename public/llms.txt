@@ -80,7 +80,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 4**
+**Total active products: 5**
+
+### LOGITECH G PRO X SUPERLIGHT
+https://example.com/product/logitech-g-pro-x-superlight-fusgg5
+- Price: 399.00 ILS
+- Availability: In stock
+- Category: עכברי גיימינג
+- Brand: LOGITECH
+- Description: עכבר הגיימינג האלחוטי שכבש את עולם ה-Esports ה-Logitech G PRO X Superlight הוא הבחירה המועדפת על גיימרים מקצוענים ב-Fortnite, Rainbow Six Siege ומשחקים תחרותיים אחרים. עם עיצוב אולטרה-לייט (Ultra-lightweight) קל משקל פורץ דרך, חיישן HERO מדויק וטכנולוגיית LIGHTSPEED אלחוטית עם אפס דיליי – אתם מקבלים מהירות מטורפת ותנועה חלקה ללא מאמץ.
+- Image: https://example.com/assets/product-1783177315634-mi7t4.webp
 
 ### ATTACK SHARK X68HE
 https://example.com/product/attack-shark-x68he-dpkuwx

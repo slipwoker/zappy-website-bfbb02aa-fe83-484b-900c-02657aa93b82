@@ -103,6 +103,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://example.com/product/logitech-g-pro-x-superlight-fusgg5</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://example.com/product/attack-shark-x68he-dpkuwx</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
