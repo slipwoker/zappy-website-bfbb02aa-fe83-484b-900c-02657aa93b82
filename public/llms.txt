@@ -80,7 +80,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 5**
+**Total active products: 6**
+
+### AULA F75
+https://example.com/product/aula-f75-86jru9
+- Price: 269.00 ILS
+- Availability: In stock
+- Category: מקלדות גיימינג
+- Brand: AULA F75
+- Description: ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד "Thocky" עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.
+- Image: https://example.com/assets/product-1783179388147-42u5uh.webp
 
 ### LOGITECH G PRO X SUPERLIGHT
 https://example.com/product/logitech-g-pro-x-superlight-fusgg5

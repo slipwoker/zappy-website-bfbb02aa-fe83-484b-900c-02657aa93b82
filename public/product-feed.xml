@@ -4,7 +4,25 @@
     <title>MAYO</title>
     <link>https://example.com</link>
     <description>Product feed for MAYO</description>
-    <lastBuildDate>Sat, 04 Jul 2026 15:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 19:43:35 GMT</lastBuildDate>
+    <item>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:id>
+      <g:title>AULA F75</g:title>
+      <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
+      <g:link>https://example.com/product/aula-f75-86jru9</g:link>
+      <g:image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AULA F75</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
     <item>
       <g:id>05b47094-9e51-4b70-9b05-0e29d9e31767</g:id>
       <g:title>LOGITECH G PRO X SUPERLIGHT</g:title>
