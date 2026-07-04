@@ -1,10 +1,38 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-04T12:14:28.906Z",
+  "generated_at": "2026-07-04T14:43:24.106Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 3,
+  "count": 4,
   "products": [
+    {
+      "id": "f2e8c65a-7979-48e3-ba98-cb4406d0e3ad",
+      "slug": "attack-shark-x68he-dpkuwx",
+      "name": "ATTACK SHARK X68HE",
+      "name_translations": {},
+      "description": "<p>-<strong>Attack Shark X68HE</strong>,</p><p>המקלדת שתשנה לחלוטין את הדרך שבה אתם משחקים. מדובר במקלדת מכנית-מגנטית בטכנולוגיית הקצה העדכנית ביותר בשוק הציוד ההיקפי, המביאה את ביצועי ה-Rapid Trigger של המקלדות היקרות בעולם ישירות לעמדה שלכם ובמחיר משתלם.</p><p><strong>למה ה-X68HE היא מפלצת גיימינג אמיתית?</strong></p><ul><li><strong>סוויצ'ים מגנטיים (Hall Effect):</strong> בניגוד למקלדת מכנית רגילה, כאן המקשים פועלים על מגנטים. זה אומר שאתם יכולים להגדיר בדיוק מתי המקש יקלוט את הלחיצה ומתי הוא ישתחרר, לחוויית שליטה חסרת תקדים.</li><li><strong>טכנולוגיית Rapid Trigger מובנית:</strong> המקש מתאפס ברגע שאתם מתחילים להרים את האצבע, מה שמאפשר לכם ללחוץ שוב ושוב במהירות שיא. חובה למשחקים שדורשים תנועות חדות, עצירות פתאומיות (Strafing) ובנייה מהירה.</li><li><strong>קצב רענון קיצוני של 8000Hz:</strong> עם מהירות תגובה של 0.125ms בלבד, המקלדת הזו מעבירה את הפקודות למחשב בקצב מהיר פי 8 ממקלדות גיימינג סטנדרטיות (1000Hz) – חוויית משחק חלקה עם אפס דיליי.</li><li><strong>עיצוב קומפקטי ונוח (65% Layout):</strong> חוסכת מקום ענק על השולחן ומשאירה לכם מרחב תנועה ענק לעכבר, אך עדיין שומרת על מקשי החצים השימושיים.</li><li><strong>איכות בנייה מטורפת וסאונד מושלם:</strong> מגיעה עם שכבות סיליקון וספוגים פנימיים לבידוד רעשים (Hot-swappable), המעניקים תחושת הקלדה חלקה וצליל \"Thocky\" עמוק ונעים לאוזן.</li><li><strong>תאורת RGB דינמית:</strong> מגוון אפקטים של תאורה אחורית צבעונית הניתנים להתאמה אישית מלאה דרך התוכנה.</li></ul><p><strong>מפרט טכני בקטנה:</strong></p><ul><li><strong>גודל/פורמט:</strong> 65% (68 מקשים – כולל חצים)</li><li><strong>סוג סוויצ'ים:</strong> מגנטיים (Magnetic Switches / Hall Effect)</li><li><strong>קצב רענון:</strong> 8000Hz (Polling Rate)</li><li><strong>תכונות מיוחדות:</strong> תמיכה מלאה ב-Rapid Trigger, נקודת לחיצה מתכווננת (Actuation Distance)</li><li><strong>חיבור:</strong> כבל Type-C נתיק (מהיר ויציב לגיימינג)</li></ul><p><strong>החבילה כוללת:</strong> מקלדת גיימינג X68HE, כבל Type-C איכותי, חולץ מקשים וסוויצ'ים, ומדריך למשתמש.</p>",
+      "short_description": "ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ'ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.",
+      "sku": null,
+      "brand": "ATTACK SHARK",
+      "price": 270,
+      "base_price": 270,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783168933341-rrcujv.webp",
+        "https://example.com/assets/product-1783168956934-h71y9y.webp",
+        "https://example.com/assets/product-1783168967084-tk3sjr.webp",
+        "https://example.com/assets/product-1783168978366-f0m6p2.webp",
+        "https://example.com/assets/product-1783168998822-vyomm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/attack-shark-x68he-dpkuwx",
+      "categories": [
+        "מקלדות גיימינג"
+      ],
+      "updated_at": "2026-07-04T12:56:36.927Z"
+    },
     {
       "id": "ef268f1f-1ea6-46c4-b3e3-86f3fe98a201",
       "slug": "attack-shark-x3-ix73o2",

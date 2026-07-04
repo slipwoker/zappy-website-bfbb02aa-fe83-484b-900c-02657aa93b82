@@ -4,7 +4,41 @@
     <title>MAYO</title>
     <link>https://example.com</link>
     <description>Product feed for MAYO</description>
-    <lastBuildDate>Sat, 04 Jul 2026 12:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 14:43:24 GMT</lastBuildDate>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__2942bcb1-18c4-466b-b536-2386b6240764</g:id>
+      <g:title>ATTACK SHARK X68HE - ללא כבל</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-dpkuwx</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>270.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__ccabfe70-050e-4647-a84b-8a6e94c71f11</g:id>
+      <g:title>ATTACK SHARK X68HE - עם כבל מסולסל</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-dpkuwx</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
     <item>
       <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:id>
       <g:title>ATTACK SHARK X3</g:title>

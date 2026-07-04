@@ -80,7 +80,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 3**
+**Total active products: 4**
+
+### ATTACK SHARK X68HE
+https://example.com/product/attack-shark-x68he-dpkuwx
+- Price: 270.00 ILS
+- Availability: In stock
+- Category: מקלדות גיימינג
+- Brand: ATTACK SHARK
+- Description: ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ'ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.
+- Image: https://example.com/assets/product-1783168933341-rrcujv.webp
 
 ### ATTACK SHARK X3
 https://example.com/product/attack-shark-x3-ix73o2
