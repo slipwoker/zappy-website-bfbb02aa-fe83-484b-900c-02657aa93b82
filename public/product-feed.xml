@@ -4,16 +4,17 @@
     <title>MAYO</title>
     <link>https://example.com</link>
     <description>Product feed for MAYO</description>
-    <lastBuildDate>Sat, 04 Jul 2026 19:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 20:42:35 GMT</lastBuildDate>
     <item>
-      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:id>
-      <g:title>AULA F75</g:title>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__451671ed-641c-48b2-9a1a-6d2e7985aa58</g:id>
+      <g:title>AULA F75 - אפור</g:title>
       <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
-      <g:link>https://example.com/product/aula-f75-86jru9</g:link>
-      <g:image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:image_link>
+      <g:link>https://example.com/product/aula-f75-bsx7p4</g:link>
+      <g:item_group_id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:additional_image_link>
-      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:additional_image_link>
@@ -24,10 +25,155 @@
       <g:product_type>מקלדות גיימינג</g:product_type>
     </item>
     <item>
-      <g:id>05b47094-9e51-4b70-9b05-0e29d9e31767</g:id>
-      <g:title>LOGITECH G PRO X SUPERLIGHT</g:title>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__6b70b91f-252e-4cce-b0d7-9c700a6ffcb2</g:id>
+      <g:title>AULA F75 - שחור צהוב</g:title>
+      <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
+      <g:link>https://example.com/product/aula-f75-bsx7p4</g:link>
+      <g:item_group_id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AULA F75</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__57853de2-5203-48fc-9c2d-1242ee6a27ab</g:id>
+      <g:title>AULA F75 - שחור ורוד</g:title>
+      <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
+      <g:link>https://example.com/product/aula-f75-bsx7p4</g:link>
+      <g:item_group_id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AULA F75</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__cfe42f8f-feac-436d-b4f9-ef073028caa5</g:id>
+      <g:title>AULA F75 - לבן תכלת ירוק</g:title>
+      <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
+      <g:link>https://example.com/product/aula-f75-bsx7p4</g:link>
+      <g:item_group_id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AULA F75</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__a90f0962-224c-4191-ac64-7e46b62cd760</g:id>
+      <g:title>AULA F75 - לבן תכלת כחול</g:title>
+      <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
+      <g:link>https://example.com/product/aula-f75-bsx7p4</g:link>
+      <g:item_group_id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AULA F75</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__f4a36c8e-47e6-44a0-87b5-2bb9456b7184</g:id>
+      <g:title>AULA F75 - לבן תכלת</g:title>
+      <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
+      <g:link>https://example.com/product/aula-f75-bsx7p4</g:link>
+      <g:item_group_id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AULA F75</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>71c2a614-b420-45ae-ab9c-0d7534f9cd44__9ff23812-d54f-4ada-a194-50fe7092083a</g:id>
+      <g:title>AULA F75 - לבן תכלת שחור</g:title>
+      <g:description>ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד &quot;Thocky&quot; עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.</g:description>
+      <g:link>https://example.com/product/aula-f75-bsx7p4</g:link>
+      <g:item_group_id>71c2a614-b420-45ae-ab9c-0d7534f9cd44</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783179501620-hglse.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179439441-bwhjga.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179388147-42u5uh.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179400869-hkzn5h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179416194-z42cwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179487085-siictv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783179510720-7loud.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>AULA F75</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>05b47094-9e51-4b70-9b05-0e29d9e31767__54b2282e-1305-4b13-9ab7-9a43c119c205</g:id>
+      <g:title>LOGITECH G PRO X SUPERLIGHT - ורוד</g:title>
       <g:description>עכבר הגיימינג האלחוטי שכבש את עולם ה-Esports ה-Logitech G PRO X Superlight הוא הבחירה המועדפת על גיימרים מקצוענים ב-Fortnite, Rainbow Six Siege ומשחקים תחרותיים אחרים. עם עיצוב אולטרה-לייט (Ultra-lightweight) קל משקל פורץ דרך, חיישן HERO מדויק וטכנולוגיית LIGHTSPEED אלחוטית עם אפס דיליי – אתם מקבלים מהירות מטורפת ותנועה חלקה ללא מאמץ.</g:description>
-      <g:link>https://example.com/product/logitech-g-pro-x-superlight-fusgg5</g:link>
+      <g:link>https://example.com/product/logitech-g-pro-x-superlight-3qetac</g:link>
+      <g:item_group_id>05b47094-9e51-4b70-9b05-0e29d9e31767</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783177342468-7b6azb.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783177315634-mi7t4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783177326383-5vo7xq.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>399.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>LOGITECH</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>05b47094-9e51-4b70-9b05-0e29d9e31767__c2584538-cdcb-4024-8258-1d70701c1d8f</g:id>
+      <g:title>LOGITECH G PRO X SUPERLIGHT - לבן</g:title>
+      <g:description>עכבר הגיימינג האלחוטי שכבש את עולם ה-Esports ה-Logitech G PRO X Superlight הוא הבחירה המועדפת על גיימרים מקצוענים ב-Fortnite, Rainbow Six Siege ומשחקים תחרותיים אחרים. עם עיצוב אולטרה-לייט (Ultra-lightweight) קל משקל פורץ דרך, חיישן HERO מדויק וטכנולוגיית LIGHTSPEED אלחוטית עם אפס דיליי – אתם מקבלים מהירות מטורפת ותנועה חלקה ללא מאמץ.</g:description>
+      <g:link>https://example.com/product/logitech-g-pro-x-superlight-3qetac</g:link>
+      <g:item_group_id>05b47094-9e51-4b70-9b05-0e29d9e31767</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783177326383-5vo7xq.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783177315634-mi7t4.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783177342468-7b6azb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>399.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>LOGITECH</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>05b47094-9e51-4b70-9b05-0e29d9e31767__838ef9a0-c1dc-4f1b-9c88-fff715aa190b</g:id>
+      <g:title>LOGITECH G PRO X SUPERLIGHT - שחור</g:title>
+      <g:description>עכבר הגיימינג האלחוטי שכבש את עולם ה-Esports ה-Logitech G PRO X Superlight הוא הבחירה המועדפת על גיימרים מקצוענים ב-Fortnite, Rainbow Six Siege ומשחקים תחרותיים אחרים. עם עיצוב אולטרה-לייט (Ultra-lightweight) קל משקל פורץ דרך, חיישן HERO מדויק וטכנולוגיית LIGHTSPEED אלחוטית עם אפס דיליי – אתם מקבלים מהירות מטורפת ותנועה חלקה ללא מאמץ.</g:description>
+      <g:link>https://example.com/product/logitech-g-pro-x-superlight-3qetac</g:link>
+      <g:item_group_id>05b47094-9e51-4b70-9b05-0e29d9e31767</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1783177315634-mi7t4.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783177326383-5vo7xq.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783177342468-7b6azb.webp</g:additional_image_link>
@@ -38,16 +184,41 @@
       <g:product_type>עכברי גיימינג</g:product_type>
     </item>
     <item>
-      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__2942bcb1-18c4-466b-b536-2386b6240764</g:id>
-      <g:title>ATTACK SHARK X68HE - ללא כבל</g:title>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__763dfe7e-3610-464b-be96-3f090776bedd</g:id>
+      <g:title>ATTACK SHARK X68HE - ללא כבל / שחור קלאסי</g:title>
       <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
-      <g:link>https://example.com/product/attack-shark-x68he-dpkuwx</g:link>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
       <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>249.99 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__08ce81f4-adba-45e7-a6a6-1cc9b71bd1ff</g:id>
+      <g:title>ATTACK SHARK X68HE - ללא כבל / שחור עם פסים</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>270.00 ILS</g:price>
       <g:condition>new</g:condition>
@@ -55,16 +226,83 @@
       <g:product_type>מקלדות גיימינג</g:product_type>
     </item>
     <item>
-      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__ccabfe70-050e-4647-a84b-8a6e94c71f11</g:id>
-      <g:title>ATTACK SHARK X68HE - עם כבל מסולסל</g:title>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__cf7531ba-99a1-40fa-8fe3-b28229c99cf3</g:id>
+      <g:title>ATTACK SHARK X68HE - ללא כבל / לבן</g:title>
       <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
-      <g:link>https://example.com/product/attack-shark-x68he-dpkuwx</g:link>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
       <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
-      <g:image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:image_link>
+      <g:image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>270.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__1a18bd23-10d0-4b8a-89fa-56c4f45c5ecb</g:id>
+      <g:title>ATTACK SHARK X68HE - ללא כבל / ורוד</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>270.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__9ee94409-4003-4dd1-a645-72430a624202</g:id>
+      <g:title>ATTACK SHARK X68HE - ללא כבל / אפור</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>270.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__768406ba-a96a-439b-b861-e58528bbcc60</g:id>
+      <g:title>ATTACK SHARK X68HE - עם כבל מסולסל / שחור קלאסי</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>299.00 ILS</g:price>
       <g:condition>new</g:condition>
@@ -72,10 +310,92 @@
       <g:product_type>מקלדות גיימינג</g:product_type>
     </item>
     <item>
-      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:id>
-      <g:title>ATTACK SHARK X3</g:title>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__d3b036d8-93be-4bf1-a0e3-702f10040862</g:id>
+      <g:title>ATTACK SHARK X68HE - עם כבל מסולסל / שחור עם פסים</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__7bbfdd1d-12d3-4bb9-9792-3eff20db0ef9</g:id>
+      <g:title>ATTACK SHARK X68HE - עם כבל מסולסל / לבן</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad__1507ad85-8c31-4775-bd21-396dab03da4d</g:id>
+      <g:title>ATTACK SHARK X68HE - עם כבל מסולסל / אפור</g:title>
+      <g:description>ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ&apos;ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.</g:description>
+      <g:link>https://example.com/product/attack-shark-x68he-q34bjw</g:link>
+      <g:item_group_id>f2e8c65a-7979-48e3-ba98-cb4406d0e3ad</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783195674024-1eolfgi.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168933341-rrcujv.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168956934-h71y9y.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168967084-tk3sjr.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168978366-f0m6p2.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783168998822-vyomm.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195686197-v3e0v.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195699552-pf9zxn.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783195709606-f41j3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>מקלדות גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201__42cfbb20-5978-488b-92ce-9fa4a49f1bc0</g:id>
+      <g:title>ATTACK SHARK X3 - לבן</g:title>
       <g:description>ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.</g:description>
-      <g:link>https://example.com/product/attack-shark-x3-ix73o2</g:link>
+      <g:link>https://example.com/product/attack-shark-x3-6oq7bj</g:link>
+      <g:item_group_id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783121039999-seziwi.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120947523-xnfrql.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120961444-cqtzu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120981627-r3fhfs.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121118913-9dbkq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121130031-u36opn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201__0a237fb9-f150-4bce-991e-c66bc2768bc1</g:id>
+      <g:title>ATTACK SHARK X3 - שחור</g:title>
+      <g:description>ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-6oq7bj</g:link>
+      <g:item_group_id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1783120947523-xnfrql.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783120961444-cqtzu.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783120981627-r3fhfs.webp</g:additional_image_link>
@@ -89,10 +409,83 @@
       <g:product_type>עכברי גיימינג</g:product_type>
     </item>
     <item>
-      <g:id>df20c34b-23c6-443d-ae7b-3ae145be56bd</g:id>
-      <g:title>ATTACK SHARK X3 PRO</g:title>
+      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201__68b6a6c0-710b-477f-9c9c-30abef80087f</g:id>
+      <g:title>ATTACK SHARK X3 - ורוד</g:title>
+      <g:description>ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-6oq7bj</g:link>
+      <g:item_group_id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783121130031-u36opn.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120947523-xnfrql.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120961444-cqtzu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120981627-r3fhfs.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121039999-seziwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121118913-9dbkq.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201__6fe17aec-b1a4-42ae-976d-2ddb161ce7af</g:id>
+      <g:title>ATTACK SHARK X3 - תכלת סגול</g:title>
+      <g:description>ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-6oq7bj</g:link>
+      <g:item_group_id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783120981627-r3fhfs.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120947523-xnfrql.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120961444-cqtzu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121039999-seziwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121118913-9dbkq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121130031-u36opn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201__7786c41f-f51a-4651-80f7-3774e56a77cb</g:id>
+      <g:title>ATTACK SHARK X3 - כתום</g:title>
+      <g:description>ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-6oq7bj</g:link>
+      <g:item_group_id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783121118913-9dbkq.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120947523-xnfrql.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120961444-cqtzu.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120981627-r3fhfs.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121039999-seziwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121130031-u36opn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201__e53d7873-65cf-43d5-9db5-bcc8699cf8f3</g:id>
+      <g:title>ATTACK SHARK X3 - אדום</g:title>
+      <g:description>ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-6oq7bj</g:link>
+      <g:item_group_id>ef268f1f-1ea6-46c4-b3e3-86f3fe98a201</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783120961444-cqtzu.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120947523-xnfrql.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783120981627-r3fhfs.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121039999-seziwi.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121118913-9dbkq.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783121130031-u36opn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>df20c34b-23c6-443d-ae7b-3ae145be56bd__10c4f185-cfa1-43b3-b8fd-0e069c2cbd5a</g:id>
+      <g:title>ATTACK SHARK X3 PRO - שחור</g:title>
       <g:description>ה-ATTACK SHARK X3 PRO הוא עכבר גיימינג אלחוטי סופר-קל משקל המציע ביצועים של פרו-פליירים במחיר שבור. עם משקל של 49 גרם בלבד, חיישן הדגל PixArt 3395 ברגישות של עד 26,000 DPI, ותמיכה בקצב רענון מהיר במיוחד לאפס דיליי, הוא מספק דיוק מושלם ותגובה מיידית בכל משחק תחרותי. העכבר כולל סוללה חזקה, עיצוב ארגונומי נוח לכף היד, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) לחופש תנועה מקסימלי.</g:description>
-      <g:link>https://example.com/product/attack-shark-x3-pro-dnkl0j</g:link>
+      <g:link>https://example.com/product/attack-shark-x3-pro-tt4im8</g:link>
+      <g:item_group_id>df20c34b-23c6-443d-ae7b-3ae145be56bd</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1783119307333-7al91o.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783119317549-gjxsi7.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
@@ -102,12 +495,78 @@
       <g:product_type>עכברי גיימינג</g:product_type>
     </item>
     <item>
-      <g:id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db</g:id>
-      <g:title>ATTACK SHARCK R5 ULTRA</g:title>
+      <g:id>df20c34b-23c6-443d-ae7b-3ae145be56bd__d1b90a68-4a31-4118-b67a-1cc03a77dcf7</g:id>
+      <g:title>ATTACK SHARK X3 PRO - לבן</g:title>
+      <g:description>ה-ATTACK SHARK X3 PRO הוא עכבר גיימינג אלחוטי סופר-קל משקל המציע ביצועים של פרו-פליירים במחיר שבור. עם משקל של 49 גרם בלבד, חיישן הדגל PixArt 3395 ברגישות של עד 26,000 DPI, ותמיכה בקצב רענון מהיר במיוחד לאפס דיליי, הוא מספק דיוק מושלם ותגובה מיידית בכל משחק תחרותי. העכבר כולל סוללה חזקה, עיצוב ארגונומי נוח לכף היד, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) לחופש תנועה מקסימלי.</g:description>
+      <g:link>https://example.com/product/attack-shark-x3-pro-tt4im8</g:link>
+      <g:item_group_id>df20c34b-23c6-443d-ae7b-3ae145be56bd</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783119317549-gjxsi7.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783119307333-7al91o.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>219.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db__6dd0e971-d097-42c1-b08a-550573cd1a27</g:id>
+      <g:title>ATTACK SHARCK R5 ULTRA - בורדו</g:title>
       <g:description>ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.</g:description>
-      <g:link>https://example.com/product/attack-sharck-r5-ultra-7ewyiw</g:link>
+      <g:link>https://example.com/product/attack-sharck-r5-ultra-8yehpr</g:link>
+      <g:item_group_id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783117271208-zeca0o.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117236082-o3j32k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117248855-2s8li.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117260177-nxy5g.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>280.00 ILS</g:price>
+      <g:sale_price>270.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db__4d776c52-9f3a-4b54-a736-7911ce4d3ea8</g:id>
+      <g:title>ATTACK SHARCK R5 ULTRA - ירוק</g:title>
+      <g:description>ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.</g:description>
+      <g:link>https://example.com/product/attack-sharck-r5-ultra-8yehpr</g:link>
+      <g:item_group_id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783117260177-nxy5g.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117236082-o3j32k.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117248855-2s8li.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117271208-zeca0o.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>280.00 ILS</g:price>
+      <g:sale_price>270.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db__6cc5f1c6-8dfa-4a50-a400-36c6f0469fcc</g:id>
+      <g:title>ATTACK SHARCK R5 ULTRA - שחור</g:title>
+      <g:description>ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.</g:description>
+      <g:link>https://example.com/product/attack-sharck-r5-ultra-8yehpr</g:link>
+      <g:item_group_id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db</g:item_group_id>
       <g:image_link>https://example.com/assets/product-1783117236082-o3j32k.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783117248855-2s8li.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117260177-nxy5g.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117271208-zeca0o.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>280.00 ILS</g:price>
+      <g:sale_price>270.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>ATTACK SHARK</g:brand>
+      <g:product_type>עכברי גיימינג</g:product_type>
+    </item>
+    <item>
+      <g:id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db__ec38879a-fa8d-427d-b313-dd7071b4c4f1</g:id>
+      <g:title>ATTACK SHARCK R5 ULTRA - לבן</g:title>
+      <g:description>ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.</g:description>
+      <g:link>https://example.com/product/attack-sharck-r5-ultra-8yehpr</g:link>
+      <g:item_group_id>3269cb57-c7f2-42e6-b35b-bcf51c17e8db</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1783117248855-2s8li.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783117236082-o3j32k.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783117260177-nxy5g.webp</g:additional_image_link>
       <g:additional_image_link>https://example.com/assets/product-1783117271208-zeca0o.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>

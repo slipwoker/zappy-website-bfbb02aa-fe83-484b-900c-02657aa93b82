@@ -83,16 +83,16 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 6**
 
 ### AULA F75
-https://example.com/product/aula-f75-86jru9
+https://example.com/product/aula-f75-bsx7p4
 - Price: 269.00 ILS
 - Availability: In stock
 - Category: מקלדות גיימינג
 - Brand: AULA F75
 - Description: ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד "Thocky" עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.
-- Image: https://example.com/assets/product-1783179388147-42u5uh.webp
+- Image: https://example.com/assets/product-1783179439441-bwhjga.webp
 
 ### LOGITECH G PRO X SUPERLIGHT
-https://example.com/product/logitech-g-pro-x-superlight-fusgg5
+https://example.com/product/logitech-g-pro-x-superlight-3qetac
 - Price: 399.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
@@ -101,7 +101,7 @@ https://example.com/product/logitech-g-pro-x-superlight-fusgg5
 - Image: https://example.com/assets/product-1783177315634-mi7t4.webp
 
 ### ATTACK SHARK X68HE
-https://example.com/product/attack-shark-x68he-dpkuwx
+https://example.com/product/attack-shark-x68he-q34bjw
 - Price: 270.00 ILS
 - Availability: In stock
 - Category: מקלדות גיימינג
@@ -110,7 +110,7 @@ https://example.com/product/attack-shark-x68he-dpkuwx
 - Image: https://example.com/assets/product-1783168933341-rrcujv.webp
 
 ### ATTACK SHARK X3
-https://example.com/product/attack-shark-x3-ix73o2
+https://example.com/product/attack-shark-x3-6oq7bj
 - Price: 169.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
@@ -119,7 +119,7 @@ https://example.com/product/attack-shark-x3-ix73o2
 - Image: https://example.com/assets/product-1783120947523-xnfrql.webp
 
 ### ATTACK SHARK X3 PRO
-https://example.com/product/attack-shark-x3-pro-dnkl0j
+https://example.com/product/attack-shark-x3-pro-tt4im8
 - Price: 219.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
@@ -128,7 +128,7 @@ https://example.com/product/attack-shark-x3-pro-dnkl0j
 - Image: https://example.com/assets/product-1783119307333-7al91o.webp
 
 ### ATTACK SHARCK R5 ULTRA
-https://example.com/product/attack-sharck-r5-ultra-7ewyiw
+https://example.com/product/attack-sharck-r5-ultra-8yehpr
 - Price: 270.00 ILS (sale, was 280.00 ILS)
 - Availability: In stock
 - Category: עכברי גיימינג
