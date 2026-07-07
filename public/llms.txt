@@ -83,7 +83,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 16**
 
 ### Attack Shark L80PRO
-https://example.com/product/attack-shark-l80pro-fzg90b
+https://example.com/product/attack-shark-l80pro-btalud
 - Price: 189.00 ILS (sale, was 229.00 ILS)
 - Availability: In stock
 - Category: אוזניות גיימינג
@@ -91,7 +91,7 @@ https://example.com/product/attack-shark-l80pro-fzg90b
 - Image: https://example.com/assets/product-1783465352057-sw9zm.webp
 
 ### Attack Shark G800 אוזניות גיימינג
-https://example.com/product/attack-shark-g800-avznyvt-gyymyng-pb5qng
+https://example.com/product/attack-shark-g800-avznyvt-gyymyng-kotg31
 - Price: 199.00 ILS
 - Availability: In stock
 - Category: אוזניות גיימינג

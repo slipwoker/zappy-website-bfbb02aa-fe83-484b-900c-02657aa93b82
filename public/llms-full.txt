@@ -6371,7 +6371,7 @@ Description: צריכים עזרה בבחירת ציוד גיימינג? רוצ�
 ## Product Catalog
 
 ### Attack Shark L80PRO
-URL: https://example.com/product/attack-shark-l80pro-fzg90b
+URL: https://example.com/product/attack-shark-l80pro-btalud
 Price: 189.00 ILS (sale, was 229.00 ILS)
 Availability: In stock
 
@@ -6380,7 +6380,7 @@ Availability: In stock
 ---
 
 ### Attack Shark G800 אוזניות גיימינג
-URL: https://example.com/product/attack-shark-g800-avznyvt-gyymyng-pb5qng
+URL: https://example.com/product/attack-shark-g800-avznyvt-gyymyng-kotg31
 Price: 199.00 ILS
 Availability: In stock
 Brand: ATTACK SHARK
