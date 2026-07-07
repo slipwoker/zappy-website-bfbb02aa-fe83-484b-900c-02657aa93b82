@@ -6,61 +6,61 @@
 
 ## Pages
 
-### בית
+### שדרגו את המשחק עם ציוד גיימינג מובחר — MAYO
 https://example.com
 MAYO מציעה מקלדות גיימינג, עכברים ומשטחים בעיצוב חדשני לגיימרים שרוצים לנצח. היכנסו עכשיו וגלו ציוד שישדרג כל לחיצה.
 
-### מדריך ציוד
+### המדריך שיהפוך אתכם לאלופי חומרה — MAYO
 https://example.com/gear-guide
 איך בוחרים ציוד גיימינג שמתאים בדיוק לסגנון שלכם? במדריך של MAYO תמצאו טיפים מקצועיים, המלצות חמות והשוואות שיעשו סדר. קראו עוד.
 
-### אודות MAYO
+### הסיפור הלא שגרתי מאחורי המותג — MAYO
 https://example.com/about
 MAYO נולדה מתוך תשוקה לגיימינג ורצון לשבור מוסכמות. הכירו את החזון, הצוות והמחויבות לאיכות ללא פשרות. הצטרפו למהפכת הגיימינג.
 
-### ביקורות קהילה
+### גיימרים מדברים, אנחנו מקשיבים — MAYO
 https://example.com/reviews
 ביקורות אמיתיות מהקהילה על מקלדות, עכברים ומשטחים של MAYO. גלו מה גיימרים חושבים ואיך הציוד שלנו שינה להם את המשחק. שתפו גם אתם.
 
-### צור קשר
-https://example.com/contact
-צריכים עזרה בבחירת ציוד גיימינג? רוצים לשתף רעיון? צרו קשר עם צוות MAYO ונחזור אליכם במהירות עם חיוך. אנחנו כאן בשבילכם.
-
-### Products
+### מוצרים
 https://example.com/products
 המוצרים שלנו - MAYO
 
-### Cart
+### עגלת קניות
 https://example.com/cart
 עגלת הקניות שלך
 
-### Checkout
+### תשלום
 https://example.com/checkout
 תשלום
 
-### Login
+### התחברות
 https://example.com/login
 התחברות לקוחות
 
-### Account
+### החשבון שלי
 https://example.com/account
 החשבון שלי
 
-### Order Success
+### ההזמנה התקבלה!
 https://example.com/order-success
 תודה על ההזמנה
 
-### Product Detail
+### פרטי המוצר
 https://example.com/product/:slug
 פרטי המוצר - MAYO
 
-### Category
+### מוצרים
 https://example.com/category/:slug
 מוצרים - MAYO
 
 ### תודה שפניתם אל MAYO
 https://example.com/thank-you
 MAYO - תודה שפניתם אל MAYO
+
+### יש לכם שאלה? אנחנו במרחק קליק — MAYO
+https://example.com/contact
+צריכים עזרה בבחירת ציוד גיימינג? רוצים לשתף רעיון? צרו קשר עם צוות MAYO ונחזור אליכם במהירות עם חיוך. אנחנו כאן בשבילכם.
 
 ## Legal & Policy
 
@@ -80,7 +80,85 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 7**
+**Total active products: 16**
+
+### Attack Shark L80PRO
+https://example.com/product/attack-shark-l80pro-fzg90b
+- Price: 189.00 ILS (sale, was 229.00 ILS)
+- Availability: In stock
+- Category: אוזניות גיימינג
+- Description: אוזניות גיימינג אלחוטיות Attack Shark L80PRO 🎧💎 מחפשים אוזניות שלא תרגישו על הראש גם אחרי שעות של קומבט? ה-L80PRO הן הפתרון המושלם! אלחוטיות, נקיות וכמעט חסרות משקל. נוצה על הראש: עיצוב ארגונומי קל משקל במיוחד שמונע לחץ על האוזניים. חופש אלחוטי: חיבור אלחוטי כפול (דונגל + בלוטות') מהיר וללא דיליי במשחק. מיקרופון כפול מתכוונן: מיקרופון גמיש ומדויק שמבטיח שהסקוואד ישמע אתכם בבירור. סאונד עמוק ומדויק: איכות שמע מעולה עם דגש על צלילים נמוכים כדי שלא תפספסו אף צעד. סטייל נקי: מראה סליק ומקצוע
+- Image: https://example.com/assets/product-1783465352057-sw9zm.webp
+
+### Attack Shark G800 אוזניות גיימינג
+https://example.com/product/attack-shark-g800-avznyvt-gyymyng-pb5qng
+- Price: 199.00 ILS
+- Availability: In stock
+- Category: אוזניות גיימינג
+- Brand: ATTACK SHARK
+- Description: אוזניות גיימינג אלחוטיות Attack Shark G800 🎧🔥 הכירו את האוזניות האלחוטיות שישדרגו לכם את הסטאפ ב-2026! בלי כבלים, בלי דיליי, ועם מראה פסיכי של סטרימרים מקצועיים. אלחוטי מוחלט: חיבור מהיר (דונגל 2.4G + בלוטות') ללא השהייה במשחק. תאורת RGB מטורפת: עיצוב מעגלי היסטרי שמוסיף מלא צבע לסטאפ. מסגרת אלומיניום חזקה: מבנה מתכת עמיד, קל משקל וכריות נוחות לשעות של משחק. סוללת מפלצת 1000mAh: שעות של גיימינג רציף בלי לחשוב על מטען. מיקרופון נשלף: מסנן רעשים לדיבור נקי, ונשלף בשנייה כשרוצים רק לשמוע מו
+- Image: https://example.com/assets/product-1783464820551-671j5.webp
+
+### פד גיימינג קטן\גדול\בינוני
+https://example.com/product/pd-gyymyng-ktngdvlbynvny-fijl2e
+- Price: 129.00 ILS (sale, was 169.00 ILS)
+- Availability: In stock
+- Brand: פד גיימינג
+- Description: משטח עכבר גיימינג מקצועי בעיצוב טופוגרפי מרהיב שדרגו את עמדת הגיימינג או העבודה שלכם עם משטח פרימיום בעל הגנה דוחה נוזלים וזיעה, בסיס גומי (Anti-Slip) מונע החלקה ותפירה היקפית כפולה שמבטיחה עמידות לשנים. המשטח מספק שילוב מושלם של מהירות ושליטה (Speed/Control) ומגיע ב-3 גדלים מושלמים לבחירה: קטן (22x18 ס"מ): קומפקטי ומיועד לעכבר בלבד. בינוני (80x30 ס"מ): גודל שולחני קלאסי למקלדת ועכבר. גדול (90x40 ס"מ - מומלץ לגיימינג! 🔥): כיסוי שולחני ענק ל-Setup מושלם.
+- Image: https://example.com/assets/product-1783350438929-aap2kn.webp
+
+### זרוע למיקרופון
+https://example.com/product/zrva-lmykrvpvn-414jgx
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: מיקרופון גיימינג
+- Description: זרוע מקצועית למיקרופון בעיצוב פרימיום חלק מראה סטודיו נקי: מנגנון קפיצים פנימי מוסתר למראה אסתטי ומקצועי ללא חוטים וקפיצים בולטים. חזקה ויציבה: מתאימה למיקרופונים כבדים, מונעת רעידות וחריקות ומחזיקה מעמד לאורך זמן. גמישות מלאה: סיבוב וכיוונון חופשי של הגובה והזווית לשיפור נוחות השימוש והדיבור. התקנה קלה: תפס שולחני מסיבי המאפשר הרכבה מהירה תוך פחות מדקה על כל שולחן.
+- Image: https://example.com/assets/product-1783281079617-9vd12.webp
+
+### Fifine AmpliGame AM8 USB/XLR
+https://example.com/product/fifine-ampligame-am8-usbxlr-xpvzo2
+- Price: 249.00 ILS
+- Availability: In stock
+- Category: מיקרופון גיימינג
+- Brand: FIFINE
+- Description: מיקרופון גיימינג דינמי Fifine AmpliGame AM8 סאונד ברמת סטודיו: טכנולוגיה דינמית המבודדת את הקול שלכם ומעלימה רעשי רקע, מקלדת ומזגן. חיבור כפול מתקדם: תומך ב-USB למחשב/קונסולה וב-XLR לציוד סאונד מקצועי. סטייל מטורף לעמדה: תאורת RGB זורמת בתחתית המיקרופון הניתנת לשליטה ושינוי צבעים. שליטה חכמה: כפתור השתקה בנגיעה (Mute), שליטה בעוצמת המיקרופון וכניסת אוזניות ללא דיליי. החבילה כוללת: מיקרופון, מעמד שולחני יציב, ספוג סינון רעשים (Pop Filter) וכבל USB.
+- Image: https://example.com/assets/product-1783276086302-6wel7h.webp
+
+### פד גיימינג ATTACK SHARK
+https://example.com/product/pd-gyymyng-attack-shark-0w3ubi
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: פד גיימינג
+- Brand: ATTACK SHARK
+- Description: משטח עכבר גיימינג ATTACK SHARK CM02 XL סטייל מטורף לעמדה: עיצוב טופוגרפי (קווי גובה) מודרני שמשדרג ברגע כל Setup גיימינג. מרחב ונוחות: גודל XL ענק (45x40 ס"מ) בעובי פרימיום של 4 מ"מ לנוחות מירבית של פרק כף היד. דיוק ללא פשרות: משטח בד מיקרו-טקסטורה חלק להחלקה מהירה ושליטה מלאה בעכבר. איכות פרימיום: קצוות סרוגים למניעת פרימה ובסיס גומי קשוח למניעת החלקות ותזוזות בזמן המשחק.
+- Image: https://example.com/assets/product-1783265783948-tgnbp.webp
+
+### פד SteelSeries QcK Large 
+https://example.com/product/pd-steelseries-qck-large-hno801
+- Price: 129.00 ILS
+- Availability: In stock
+- Category: פד גיימינג
+- Brand:  SteelSeries
+- Description: משטח עכבר SteelSeries QcK Large המקורי הבחירה של המקצוענים: משטח הגיימינג האגדי והנמכר ביותר בעולם לחוויית משחק תחרותית. מרחב תנועה ענק: גודל של 45x40 ס"מ המותאם במיוחד לשחקנים ברגישות נמוכה (Low DPI). מעקב מושלם: בד QcK ייחודי בצפיפות גבוהה המעניק מעקב אחיד ומדויק לכל סוגי החיישנים. אחיזה איתנה: בסיס גומי טבעי המונע תזוזות מיותרות ושומר על יציבות מקסימלית ברגעי השיא של המשחק.
+- Image: https://example.com/assets/product-1783265294586-201ca.webp
+
+### פד גיימינג
+https://example.com/product/pd-gyymyng-djxi9y
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: פד גיימינג
+- Brand: פד גיימינג
+- Description: משטח עכבר גיימינג בד מקצועי XL – שחור חלק גודל ענק: 45x40 ס"מ לחופש תנועה מוחלט ברגישות נמוכה (Low DPI). דיוק מקסימלי: בד ארוג בצפיפות גבוהה להחלקה חלקה ושליטה מושלמת בעכבר. יציבות מלאה: בסיס גומי איכותי מונע החלקה ותזוזות בזמן משחק מותח. התאמה אישית: זמין לבחירה ב-4 עוביים שונים (2 מ"מ עד 5 מ"מ) לנוחות מירבית.
+- Image: https://example.com/assets/product-1783260218345-vfr3j.webp
+
+### פד זכוכית
+https://example.com/product/pd-zkvkyt-eov0nu
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: פד גיימינג
+- Brand: פד זכוכית
+- Description: המשטח המקצועי שישנה לכם את ה-Aim לנצח – זכוכית מחוסמת, מהירות קיצונית ועמידות לכל החיים! סדרת פדי הזכוכית SP004 / SP005 מביאה את בשורת משטחי הקצה של עולם הגיימינג התחרותי ישירות לשולחן שלכם. עשוי זכוכית מחוסמת איכותית בגימור מט, הפד מעניק חוויית החלקה מהירה כמו קרח ודיוק פסיכי (Pixel-Perfect) שפדי בד רגילים פשוט לא יכולים להגיע אליו. הוא אינו נשחק, קל לניקוי ונשאר כמו חדש לתמיד.
+- Image: https://example.com/assets/product-1783253147879-3jnoum.webp
 
 ### ATTACK SHARK R3
 https://example.com/product/attack-shark-r3-dxqb0o

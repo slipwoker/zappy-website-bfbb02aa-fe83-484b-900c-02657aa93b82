@@ -13200,5 +13200,27 @@ section[class*="hero"]:not([data-zappy-bg-overlay-opacity]) > [class*="bg-wrappe
   }
 }
 
+
+/* ZAPPY_ECOM_SEARCH_DROPDOWN_WIDTH_FIX */
+.nav-search-results,
+.navbar #nav-search-results,
+.navbar .nav-search-results {
+  width: min(360px, 92vw) !important;
+  min-width: min(280px, 92vw) !important;
+  max-width: 360px !important;
+  inset-inline-end: auto !important;
+  box-sizing: border-box !important;
+}
+@media (max-width: 360px) {
+  .nav-search-results,
+  .navbar #nav-search-results,
+  .navbar .nav-search-results {
+    width: calc(100vw - 24px) !important;
+    min-width: 0 !important;
+    max-width: calc(100vw - 24px) !important;
+  }
+}
+/* END ZAPPY_ECOM_SEARCH_DROPDOWN_WIDTH_FIX */
+
 /* Spec table BiDi fix: isolate cells so mixed LTR/RTL content renders correctly */
 .specs-table th, .specs-table td { unicode-bidi: plaintext !important; }
