@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:27:05.403Z",
+  "generated_at": "2026-07-07T23:39:34.962Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 16,
@@ -421,16 +421,16 @@
     },
     {
       "id": "3269cb57-c7f2-42e6-b35b-bcf51c17e8db",
-      "slug": "attack-sharck-r5-ultra-8yehpr",
+      "slug": "attack-sharck-r5-ultra-bzp1go",
       "name": "ATTACK SHARCK R5 ULTRA",
       "name_translations": {},
       "description": "<p>הכירו את ה-<strong>Attack Shark R5 Ultra</strong>, עכבר הגיימינג האלחוטי שמשנה את חוקי המשחק ומביא ביצועים של מקצוענים במחיר שובר שוק. עם משקל אפסי וטכנולוגיה קצה, הוא נותן לכם את היתרון המטורף שאתם צריכים בכל סשן גיימינג תחרותי.</p><p><strong>למה הוא המושלם בשבילכם?</strong></p><ul><li><strong>משקל נוצה קיצוני:</strong> רק 39 גרם בלבד! תנועה חלקה, מהירה וללא מאמץ שמשפרת את ה-Aim שלכם בשניות.</li><li><strong>חיישן הדגל PixArt 3395:</strong> דיוק מפחיד ורגישות של עד 26,000 DPI, בשילוב עם קצב רענון חולני של <strong>8K</strong> לאפס דיליי (Zero Latency).</li><li><strong>עיצוב ארגונומי פתוח (Honeycomb):</strong> מבנה חור כוורת ייחודי השומר על אוורור כף היד ועל משקל מינימלי, מבלי להתפשר על עמידות ונוחות.</li><li><strong>קישוריות משולשת:</strong> תמיכה בחיבור אלחוטי 2.4GHz יציב במיוחד, Bluetooth, או חיבור כבל Type-C רגיל.</li></ul><p><strong>מפרט טכני בקטנה:</strong></p><ul><li><strong>משקל:</strong> 39 גרם</li><li><strong>חיישן:</strong> PixArt 3395 (עד 26,000 DPI)</li><li><strong>קצב רענון:</strong> תמיכה ב-8,000Hz (8K)</li><li><strong>חיבור:</strong> אלחוטי 2.4GHz / חוטי / בלוטוס</li></ul><p><strong>החבילה כוללת:</strong> עכבר R5 Ultra, דונגל אלחוטי, כבל Type-C איכותי ומדבקות אחיזה (Grips) לסטייל ושליטה מקסימלית.</p>",
       "short_description": "ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.",
       "sku": null,
       "brand": "ATTACK SHARK",
-      "price": 270,
-      "base_price": 280,
-      "sale_price": 270,
+      "price": 269,
+      "base_price": 269,
+      "sale_price": null,
       "currency": "ILS",
       "images": [
         "https://example.com/assets/product-1783117236082-o3j32k.webp",
@@ -440,11 +440,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-sharck-r5-ultra-8yehpr",
+      "url": "https://example.com/product/attack-sharck-r5-ultra-bzp1go",
       "categories": [
         "עכברי גיימינג"
       ],
-      "updated_at": "2026-07-04T20:17:33.604Z"
+      "updated_at": "2026-07-07T23:33:30.163Z"
     }
   ]
 }
