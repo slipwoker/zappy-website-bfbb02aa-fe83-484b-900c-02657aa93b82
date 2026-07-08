@@ -7,73 +7,73 @@
 ## Pages
 
 ### שדרגו את המשחק עם ציוד גיימינג מובחר — MAYO
-https://example.com
+https://mayo.zappy5.app
 MAYO מציעה מקלדות גיימינג, עכברים ומשטחים בעיצוב חדשני לגיימרים שרוצים לנצח. היכנסו עכשיו וגלו ציוד שישדרג כל לחיצה.
 
 ### גיימרים מדברים, אנחנו מקשיבים — MAYO
-https://example.com/reviews
+https://mayo.zappy5.app/reviews
 ביקורות אמיתיות מהקהילה על מקלדות, עכברים ומשטחים של MAYO. גלו מה גיימרים חושבים ואיך הציוד שלנו שינה להם את המשחק. שתפו גם אתם.
 
 ### המדריך שיהפוך אתכם לאלופי חומרה — MAYO
-https://example.com/gear-guide
+https://mayo.zappy5.app/gear-guide
 איך בוחרים ציוד גיימינג שמתאים בדיוק לסגנון שלכם? במדריך של MAYO תמצאו טיפים מקצועיים, המלצות חמות והשוואות שיעשו סדר. קראו עוד.
 
 ### הסיפור הלא שגרתי מאחורי המותג — MAYO
-https://example.com/about
+https://mayo.zappy5.app/about
 MAYO נולדה מתוך תשוקה לגיימינג ורצון לשבור מוסכמות. הכירו את החזון, הצוות והמחויבות לאיכות ללא פשרות. הצטרפו למהפכת הגיימינג.
 
 ### מוצרים
-https://example.com/products
+https://mayo.zappy5.app/products
 המוצרים שלנו - MAYO
 
 ### עגלת קניות
-https://example.com/cart
+https://mayo.zappy5.app/cart
 עגלת הקניות שלך
 
 ### תשלום
-https://example.com/checkout
+https://mayo.zappy5.app/checkout
 תשלום
 
 ### התחברות
-https://example.com/login
+https://mayo.zappy5.app/login
 התחברות לקוחות
 
 ### החשבון שלי
-https://example.com/account
+https://mayo.zappy5.app/account
 החשבון שלי
 
 ### ההזמנה התקבלה!
-https://example.com/order-success
+https://mayo.zappy5.app/order-success
 תודה על ההזמנה
 
 ### פרטי המוצר
-https://example.com/product/:slug
+https://mayo.zappy5.app/product/:slug
 פרטי המוצר - MAYO
 
 ### מוצרים
-https://example.com/category/:slug
+https://mayo.zappy5.app/category/:slug
 מוצרים - MAYO
 
 ### תודה שפניתם אל MAYO
-https://example.com/thank-you
+https://mayo.zappy5.app/thank-you
 MAYO - תודה שפניתם אל MAYO
 
 ### יש לכם שאלה? אנחנו במרחק קליק — MAYO
-https://example.com/contact
+https://mayo.zappy5.app/contact
 צריכים עזרה בבחירת ציוד גיימינג? רוצים לשתף רעיון? צרו קשר עם צוות MAYO ונחזור אליכם במהירות עם חיוך. אנחנו כאן בשבילכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://mayo.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://mayo.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://mayo.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -83,172 +83,172 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 19**
 
 ### attack shark x6
-https://example.com/product/attack-shark-x6-oh1pp2
+https://mayo.zappy5.app/product/attack-shark-x6-oh1pp2
 - Price: 199.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: attack shark
 - Description: עכבר גיימינג אלחוטי Attack Shark X6 – השילוב המושלם של מהירות ויוקרה! רוצה את היתרון המקסימלי במשחק? ה-X6 הוא חיית ביצועים: חיישן ה-PAW3395 המקצועי ביותר בשוק לדיוק חסר פשרות, משקל נוצה משוגע של 49 גרם בלבד לתנועות בזק, ותחנת עגינה מגנטית לטעינה עם תאורת RGB שתהפוך את הסטאפ שלך למטורף. זהו העכבר המושלם לגיימרים תחרותיים שרוצים הכל, במחיר ששובר את השוק בארץ.
-- Image: https://example.com/assets/product-1783470938090-obnxhg.webp
+- Image: https://mayo.zappy5.app/assets/product-1783470938090-obnxhg.webp
 
 ### attack shark r1
-https://example.com/product/attack-shark-r1-gu1tnx
+https://mayo.zappy5.app/product/attack-shark-r1-gu1tnx
 - Price: 149.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: attack shark
 - Description: עכבר גיימינג אלחוטי Attack Shark R1 – משקל אפס, ביצועים מקסימליים! מחפש עכבר שיעזור לך לקרוע את השרתים בפורטנייט או בסיג'? ה-R1 הוא עכבר אלחוטי ארגונומי וקל משקל בטירוף, שמגיע עם החיישן המקצועי ביותר בשוק לדיוק מושלם של ה-Aim. המשקל האפסי שלו מעניק לך מהירות תגובה מטורפת בכל תנועה, במחיר ששובר את השוק בארץ.
-- Image: https://example.com/assets/product-1783469956648-re6lrw.webp
+- Image: https://mayo.zappy5.app/assets/product-1783469956648-re6lrw.webp
 
 ### attack shark x11
-https://example.com/product/attack-shark-x11-wr7bey
+https://mayo.zappy5.app/product/attack-shark-x11-wr7bey
 - Price: 149.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Description: עכבר גיימינג אלחוטי Attack Shark X11 – חיית ביצועים לעמדה שלך! מחפש את היתרון שיקפיץ לך את ה-Aim בפורטנייט או בסיג'? ה-X11 הוא עכבר אלחוטי קל משקל בטירוף, שמגיע עם חיישן מדויק, סוללה חזקה ותחנת עגינה מגנטית לטעינה מהירה עם תאורת RGB מטורפת. ביצועים של עכבר ב-400 ש"ח, במחיר שמתאים לכל גיימר.
-- Image: https://example.com/assets/product-1783469372177-6mvtbm.webp
+- Image: https://mayo.zappy5.app/assets/product-1783469372177-6mvtbm.webp
 
 ### Attack Shark L80PRO
-https://example.com/product/attack-shark-l80pro-btalud
+https://mayo.zappy5.app/product/attack-shark-l80pro-btalud
 - Price: 189.00 ILS (sale, was 229.00 ILS)
 - Availability: In stock
 - Category: אוזניות גיימינג
 - Description: אוזניות גיימינג אלחוטיות Attack Shark L80PRO 🎧💎 מחפשים אוזניות שלא תרגישו על הראש גם אחרי שעות של קומבט? ה-L80PRO הן הפתרון המושלם! אלחוטיות, נקיות וכמעט חסרות משקל. נוצה על הראש: עיצוב ארגונומי קל משקל במיוחד שמונע לחץ על האוזניים. חופש אלחוטי: חיבור אלחוטי כפול (דונגל + בלוטות') מהיר וללא דיליי במשחק. מיקרופון כפול מתכוונן: מיקרופון גמיש ומדויק שמבטיח שהסקוואד ישמע אתכם בבירור. סאונד עמוק ומדויק: איכות שמע מעולה עם דגש על צלילים נמוכים כדי שלא תפספסו אף צעד. סטייל נקי: מראה סליק ומקצוע
-- Image: https://example.com/assets/product-1783465352057-sw9zm.webp
+- Image: https://mayo.zappy5.app/assets/product-1783465352057-sw9zm.webp
 
 ### Attack Shark G800 אוזניות גיימינג
-https://example.com/product/attack-shark-g800-avznyvt-gyymyng-kotg31
+https://mayo.zappy5.app/product/attack-shark-g800-avznyvt-gyymyng-kotg31
 - Price: 199.00 ILS
 - Availability: In stock
 - Category: אוזניות גיימינג
 - Brand: ATTACK SHARK
 - Description: אוזניות גיימינג אלחוטיות Attack Shark G800 🎧🔥 הכירו את האוזניות האלחוטיות שישדרגו לכם את הסטאפ ב-2026! בלי כבלים, בלי דיליי, ועם מראה פסיכי של סטרימרים מקצועיים. אלחוטי מוחלט: חיבור מהיר (דונגל 2.4G + בלוטות') ללא השהייה במשחק. תאורת RGB מטורפת: עיצוב מעגלי היסטרי שמוסיף מלא צבע לסטאפ. מסגרת אלומיניום חזקה: מבנה מתכת עמיד, קל משקל וכריות נוחות לשעות של משחק. סוללת מפלצת 1000mAh: שעות של גיימינג רציף בלי לחשוב על מטען. מיקרופון נשלף: מסנן רעשים לדיבור נקי, ונשלף בשנייה כשרוצים רק לשמוע מו
-- Image: https://example.com/assets/product-1783464820551-671j5.webp
+- Image: https://mayo.zappy5.app/assets/product-1783464820551-671j5.webp
 
 ### פד גיימינג קטן\גדול\בינוני
-https://example.com/product/pd-gyymyng-ktngdvlbynvny-x52iyv
+https://mayo.zappy5.app/product/pd-gyymyng-ktngdvlbynvny-x52iyv
 - Price: 129.00 ILS (sale, was 169.00 ILS)
 - Availability: In stock
 - Category: פד גיימינג
 - Brand: פד גיימינג
 - Description: משטח עכבר גיימינג מקצועי בעיצוב טופוגרפי מרהיב שדרגו את עמדת הגיימינג או העבודה שלכם עם משטח פרימיום בעל הגנה דוחה נוזלים וזיעה, בסיס גומי (Anti-Slip) מונע החלקה ותפירה היקפית כפולה שמבטיחה עמידות לשנים. המשטח מספק שילוב מושלם של מהירות ושליטה (Speed/Control) ומגיע ב-3 גדלים מושלמים לבחירה: קטן (22x18 ס"מ): קומפקטי ומיועד לעכבר בלבד. בינוני (80x30 ס"מ): גודל שולחני קלאסי למקלדת ועכבר. גדול (90x40 ס"מ - מומלץ לגיימינג! 🔥): כיסוי שולחני ענק ל-Setup מושלם.
-- Image: https://example.com/assets/product-1783350438929-aap2kn.webp
+- Image: https://mayo.zappy5.app/assets/product-1783350438929-aap2kn.webp
 
 ### זרוע למיקרופון
-https://example.com/product/zrva-lmykrvpvn-414jgx
+https://mayo.zappy5.app/product/zrva-lmykrvpvn-414jgx
 - Price: 119.00 ILS
 - Availability: In stock
 - Category: מיקרופון גיימינג
 - Description: זרוע מקצועית למיקרופון בעיצוב פרימיום חלק מראה סטודיו נקי: מנגנון קפיצים פנימי מוסתר למראה אסתטי ומקצועי ללא חוטים וקפיצים בולטים. חזקה ויציבה: מתאימה למיקרופונים כבדים, מונעת רעידות וחריקות ומחזיקה מעמד לאורך זמן. גמישות מלאה: סיבוב וכיוונון חופשי של הגובה והזווית לשיפור נוחות השימוש והדיבור. התקנה קלה: תפס שולחני מסיבי המאפשר הרכבה מהירה תוך פחות מדקה על כל שולחן.
-- Image: https://example.com/assets/product-1783281079617-9vd12.webp
+- Image: https://mayo.zappy5.app/assets/product-1783281079617-9vd12.webp
 
 ### Fifine AmpliGame AM8 USB/XLR
-https://example.com/product/fifine-ampligame-am8-usbxlr-mnb91g
+https://mayo.zappy5.app/product/fifine-ampligame-am8-usbxlr-mnb91g
 - Price: 249.00 ILS
 - Availability: In stock
 - Category: מיקרופון גיימינג
 - Brand: FIFINE
 - Description: מיקרופון גיימינג דינמי Fifine AmpliGame AM8 סאונד ברמת סטודיו: טכנולוגיה דינמית המבודדת את הקול שלכם ומעלימה רעשי רקע, מקלדת ומזגן. חיבור כפול מתקדם: תומך ב-USB למחשב/קונסולה וב-XLR לציוד סאונד מקצועי. סטייל מטורף לעמדה: תאורת RGB זורמת בתחתית המיקרופון הניתנת לשליטה ושינוי צבעים. שליטה חכמה: כפתור השתקה בנגיעה (Mute), שליטה בעוצמת המיקרופון וכניסת אוזניות ללא דיליי. החבילה כוללת: מיקרופון, מעמד שולחני יציב, ספוג סינון רעשים (Pop Filter) וכבל USB.
-- Image: https://example.com/assets/product-1783276086302-6wel7h.webp
+- Image: https://mayo.zappy5.app/assets/product-1783276086302-6wel7h.webp
 
 ### פד גיימינג ATTACK SHARK
-https://example.com/product/pd-gyymyng-attack-shark-kh531o
+https://mayo.zappy5.app/product/pd-gyymyng-attack-shark-kh531o
 - Price: 119.00 ILS
 - Availability: In stock
 - Category: פד גיימינג
 - Brand: ATTACK SHARK
 - Description: משטח עכבר גיימינג ATTACK SHARK CM02 XL סטייל מטורף לעמדה: עיצוב טופוגרפי (קווי גובה) מודרני שמשדרג ברגע כל Setup גיימינג. מרחב ונוחות: גודל XL ענק (45x40 ס"מ) בעובי פרימיום של 4 מ"מ לנוחות מירבית של פרק כף היד. דיוק ללא פשרות: משטח בד מיקרו-טקסטורה חלק להחלקה מהירה ושליטה מלאה בעכבר. איכות פרימיום: קצוות סרוגים למניעת פרימה ובסיס גומי קשוח למניעת החלקות ותזוזות בזמן המשחק.
-- Image: https://example.com/assets/product-1783265783948-tgnbp.webp
+- Image: https://mayo.zappy5.app/assets/product-1783265783948-tgnbp.webp
 
 ### פד SteelSeries QcK Large 
-https://example.com/product/pd-steelseries-qck-large-hno801
+https://mayo.zappy5.app/product/pd-steelseries-qck-large-hno801
 - Price: 129.00 ILS
 - Availability: In stock
 - Category: פד גיימינג
 - Brand:  SteelSeries
 - Description: משטח עכבר SteelSeries QcK Large המקורי הבחירה של המקצוענים: משטח הגיימינג האגדי והנמכר ביותר בעולם לחוויית משחק תחרותית. מרחב תנועה ענק: גודל של 45x40 ס"מ המותאם במיוחד לשחקנים ברגישות נמוכה (Low DPI). מעקב מושלם: בד QcK ייחודי בצפיפות גבוהה המעניק מעקב אחיד ומדויק לכל סוגי החיישנים. אחיזה איתנה: בסיס גומי טבעי המונע תזוזות מיותרות ושומר על יציבות מקסימלית ברגעי השיא של המשחק.
-- Image: https://example.com/assets/product-1783265294586-201ca.webp
+- Image: https://mayo.zappy5.app/assets/product-1783265294586-201ca.webp
 
 ### פד גיימינג
-https://example.com/product/pd-gyymyng-djxi9y
+https://mayo.zappy5.app/product/pd-gyymyng-djxi9y
 - Price: 89.00 ILS
 - Availability: In stock
 - Category: פד גיימינג
 - Brand: פד גיימינג
 - Description: משטח עכבר גיימינג בד מקצועי XL – שחור חלק גודל ענק: 45x40 ס"מ לחופש תנועה מוחלט ברגישות נמוכה (Low DPI). דיוק מקסימלי: בד ארוג בצפיפות גבוהה להחלקה חלקה ושליטה מושלמת בעכבר. יציבות מלאה: בסיס גומי איכותי מונע החלקה ותזוזות בזמן משחק מותח. התאמה אישית: זמין לבחירה ב-4 עוביים שונים (2 מ"מ עד 5 מ"מ) לנוחות מירבית.
-- Image: https://example.com/assets/product-1783260218345-vfr3j.webp
+- Image: https://mayo.zappy5.app/assets/product-1783260218345-vfr3j.webp
 
 ### פד זכוכית
-https://example.com/product/pd-zkvkyt-eov0nu
+https://mayo.zappy5.app/product/pd-zkvkyt-eov0nu
 - Price: 169.00 ILS
 - Availability: In stock
 - Category: פד גיימינג
 - Brand: פד זכוכית
 - Description: המשטח המקצועי שישנה לכם את ה-Aim לנצח – זכוכית מחוסמת, מהירות קיצונית ועמידות לכל החיים! סדרת פדי הזכוכית SP004 / SP005 מביאה את בשורת משטחי הקצה של עולם הגיימינג התחרותי ישירות לשולחן שלכם. עשוי זכוכית מחוסמת איכותית בגימור מט, הפד מעניק חוויית החלקה מהירה כמו קרח ודיוק פסיכי (Pixel-Perfect) שפדי בד רגילים פשוט לא יכולים להגיע אליו. הוא אינו נשחק, קל לניקוי ונשאר כמו חדש לתמיד.
-- Image: https://example.com/assets/product-1783253147879-3jnoum.webp
+- Image: https://mayo.zappy5.app/assets/product-1783253147879-3jnoum.webp
 
 ### ATTACK SHARK R3
-https://example.com/product/attack-shark-r3-dxqb0o
+https://mayo.zappy5.app/product/attack-shark-r3-dxqb0o
 - Price: 299.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: ATTACK SHARK
 - Description: כבר הגיימינג שמציב סטנדרט חדש לביצועי קצה – משקל אפסי, מהירות שיא ובמחיר הכי זול בישראל! ה-Attack Shark R3 הוא עכבר מגנזיום/אולטרה-לייט אלחוטי שתוכנן במיוחד לגיימרים שרוצים ביצועים ברמה של מקצועני eSports בלי לשבור תוכנית חיסכון. עם משקל נוצה קיצוני, חיישן הדגל PAW3395 המדויק בעולם, וקצב רענון מטורף (Polling Rate) של עד 8K – אתם הולכים להרגיש את ההבדל מהקליק הראשון.
-- Image: https://example.com/assets/product-1783206658779-m5cknk.webp
+- Image: https://mayo.zappy5.app/assets/product-1783206658779-m5cknk.webp
 
 ### AULA F75
-https://example.com/product/aula-f75-bsx7p4
+https://mayo.zappy5.app/product/aula-f75-bsx7p4
 - Price: 269.00 ILS
 - Availability: In stock
 - Category: מקלדות גיימינג
 - Brand: AULA F75
 - Description: ה-Aula F75 היא המקלדת המדוברת ביותר בעולם הגיימינג, בזכות מבנה ה-Gasket Mount המתקדם שלה שמעניק תחושת הקלדה חלקה וסאונד "Thocky" עמוק ומטורף ישר מהקופסה. הגרסה האלחוטית הרשמית מציעה חיבור יציב ללא דיליי, תאורת RGB מרהיבה וחיי סוללה ארוכים.
-- Image: https://example.com/assets/product-1783179439441-bwhjga.webp
+- Image: https://mayo.zappy5.app/assets/product-1783179439441-bwhjga.webp
 
 ### LOGITECH G PRO X SUPERLIGHT
-https://example.com/product/logitech-g-pro-x-superlight-3qetac
+https://mayo.zappy5.app/product/logitech-g-pro-x-superlight-3qetac
 - Price: 399.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: LOGITECH
 - Description: עכבר הגיימינג האלחוטי שכבש את עולם ה-Esports ה-Logitech G PRO X Superlight הוא הבחירה המועדפת על גיימרים מקצוענים ב-Fortnite, Rainbow Six Siege ומשחקים תחרותיים אחרים. עם עיצוב אולטרה-לייט (Ultra-lightweight) קל משקל פורץ דרך, חיישן HERO מדויק וטכנולוגיית LIGHTSPEED אלחוטית עם אפס דיליי – אתם מקבלים מהירות מטורפת ותנועה חלקה ללא מאמץ.
-- Image: https://example.com/assets/product-1783177315634-mi7t4.webp
+- Image: https://mayo.zappy5.app/assets/product-1783177315634-mi7t4.webp
 
 ### ATTACK SHARK X68HE
-https://example.com/product/attack-shark-x68he-q34bjw
+https://mayo.zappy5.app/product/attack-shark-x68he-q34bjw
 - Price: 270.00 ILS
 - Availability: In stock
 - Category: מקלדות גיימינג
 - Brand: ATTACK SHARK
 - Description: ה-ATTACK SHARK X68HE היא מקלדת גיימינג מכנית-מגנטית פורצת דרך בפורמט 65% קומפקטי, המתוכננת לגיימרים תחרותיים שרוצים יתרון לא הוגן במשחק. המקלדת מצוידת בסוויצ'ים מגנטיים מתקדמים התומכים בטכנולוגיית Rapid Trigger ובחיישני אפקט הול (Hall Effect) – המאפשרים לכם לקבוע את נקודת הלחיצה המדויקת של כל מקש מאפס ועד תגובה מיידית. עם קצב רענון של 8000Hz (פי 8 ממקלדת רגילה), אפס השהייה, ותאורת RGB מטורפת, היא הכלי המושלם למשחקים כמו Fortnite, Valorant ו-CS2.
-- Image: https://example.com/assets/product-1783168933341-rrcujv.webp
+- Image: https://mayo.zappy5.app/assets/product-1783168933341-rrcujv.webp
 
 ### ATTACK SHARK X3
-https://example.com/product/attack-shark-x3-6oq7bj
+https://mayo.zappy5.app/product/attack-shark-x3-6oq7bj
 - Price: 169.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: ATTACK SHARK
 - Description: ה-ATTACK SHARK X3 הוא עכבר גיימינג אלחוטי קליל ומהיר, המציע ביצועים ברמה גבוהה במחיר נגיש לכל גיימר. במשקל מטורף של 49 גרם בלבד, הוא מצויד בחיישן הדגל PixArt 3395 בדיוק של עד 26,000 DPI המבטיח תגובה חלקה ומיידית ללא דיליי. העכבר מגיע עם עיצוב ארגונומי נוח במיוחד האוחז את כף היד בצורה מושלמת, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) המאפשרת חיבור קל ומהיר לכל מחשב.
-- Image: https://example.com/assets/product-1783120947523-xnfrql.webp
+- Image: https://mayo.zappy5.app/assets/product-1783120947523-xnfrql.webp
 
 ### ATTACK SHARK X3 PRO
-https://example.com/product/attack-shark-x3-pro-tt4im8
+https://mayo.zappy5.app/product/attack-shark-x3-pro-tt4im8
 - Price: 219.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: ATTACK SHARK
 - Description: ה-ATTACK SHARK X3 PRO הוא עכבר גיימינג אלחוטי סופר-קל משקל המציע ביצועים של פרו-פליירים במחיר שבור. עם משקל של 49 גרם בלבד, חיישן הדגל PixArt 3395 ברגישות של עד 26,000 DPI, ותמיכה בקצב רענון מהיר במיוחד לאפס דיליי, הוא מספק דיוק מושלם ותגובה מיידית בכל משחק תחרותי. העכבר כולל סוללה חזקה, עיצוב ארגונומי נוח לכף היד, וקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל חוטי) לחופש תנועה מקסימלי.
-- Image: https://example.com/assets/product-1783119307333-7al91o.webp
+- Image: https://mayo.zappy5.app/assets/product-1783119307333-7al91o.webp
 
 ### ATTACK SHARCK R5 ULTRA
-https://example.com/product/attack-sharck-r5-ultra-bzp1go
+https://mayo.zappy5.app/product/attack-sharck-r5-ultra-bzp1go
 - Price: 269.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: ATTACK SHARK
 - Description: ה-ATTACK SHARK R5 ULTRA הוא עכבר גיימינג אלחוטי מקצועי במשקל נוצה קיצוני של 39 גרם בלבד לתנועה מהירה וחלקה המשפרת את ה-Aim בשניות. הוא מצויד בחיישן הדגל PixArt 3395 עם דיוק של עד 26,000 DPI וקצב רענון חולני של 8K לאפס דיליי. העכבר מגיע בעיצוב חור כוורת (Honeycomb) ייחודי לאוורור כף היד, תומך בקישוריות משולשת (אלחוטי 2.4GHz, בלוטוס וכבל Type-C), והמארז כולל דונגל, כבל איכותי ומדבקות אחיזה (Grips) לשליטה מקסימלית במחיר שובר שוק.
-- Image: https://example.com/assets/product-1783117236082-o3j32k.webp
+- Image: https://mayo.zappy5.app/assets/product-1783117236082-o3j32k.webp
 
 ---
 
@@ -270,8 +270,8 @@ Gaming E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://mayo.zappy5.app/sitemap.xml
+- Robots: https://mayo.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://mayo.zappy5.app/llms-full.txt
+- Products (JSON): https://mayo.zappy5.app/products.json
+- Products (Google Merchant RSS): https://mayo.zappy5.app/product-feed.xml

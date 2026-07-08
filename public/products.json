@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T19:48:21.138Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-07-08T19:48:41.855Z",
+  "base_url": "https://mayo.zappy5.app",
   "currency": "ILS",
   "count": 19,
   "products": [
@@ -19,13 +19,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783470938090-obnxhg.webp",
-        "https://example.com/assets/product-1783470948215-ys45ms.webp",
-        "https://example.com/assets/product-1783470974754-mosgw9.webp"
+        "https://mayo.zappy5.app/assets/product-1783470938090-obnxhg.webp",
+        "https://mayo.zappy5.app/assets/product-1783470948215-ys45ms.webp",
+        "https://mayo.zappy5.app/assets/product-1783470974754-mosgw9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-x6-oh1pp2",
+      "url": "https://mayo.zappy5.app/product/attack-shark-x6-oh1pp2",
       "categories": [
         "עכברי גיימינג"
       ],
@@ -45,13 +45,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783469956648-re6lrw.webp",
-        "https://example.com/assets/product-1783469967367-ei4336.webp",
-        "https://example.com/assets/product-1783469977985-pzqa4.webp"
+        "https://mayo.zappy5.app/assets/product-1783469956648-re6lrw.webp",
+        "https://mayo.zappy5.app/assets/product-1783469967367-ei4336.webp",
+        "https://mayo.zappy5.app/assets/product-1783469977985-pzqa4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-r1-gu1tnx",
+      "url": "https://mayo.zappy5.app/product/attack-shark-r1-gu1tnx",
       "categories": [
         "עכברי גיימינג"
       ],
@@ -71,13 +71,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783469372177-6mvtbm.webp",
-        "https://example.com/assets/product-1783469382098-p4tk95.webp",
-        "https://example.com/assets/product-1783469392285-93rw1r.webp"
+        "https://mayo.zappy5.app/assets/product-1783469372177-6mvtbm.webp",
+        "https://mayo.zappy5.app/assets/product-1783469382098-p4tk95.webp",
+        "https://mayo.zappy5.app/assets/product-1783469392285-93rw1r.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-x11-wr7bey",
+      "url": "https://mayo.zappy5.app/product/attack-shark-x11-wr7bey",
       "categories": [
         "עכברי גיימינג"
       ],
@@ -97,12 +97,12 @@
       "sale_price": 189,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783465352057-sw9zm.webp",
-        "https://example.com/assets/product-1783465364773-yqp1od.webp"
+        "https://mayo.zappy5.app/assets/product-1783465352057-sw9zm.webp",
+        "https://mayo.zappy5.app/assets/product-1783465364773-yqp1od.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-l80pro-btalud",
+      "url": "https://mayo.zappy5.app/product/attack-shark-l80pro-btalud",
       "categories": [
         "אוזניות גיימינג"
       ],
@@ -122,12 +122,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783464820551-671j5.webp",
-        "https://example.com/assets/product-1783464830678-p0spz.webp"
+        "https://mayo.zappy5.app/assets/product-1783464820551-671j5.webp",
+        "https://mayo.zappy5.app/assets/product-1783464830678-p0spz.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-g800-avznyvt-gyymyng-kotg31",
+      "url": "https://mayo.zappy5.app/product/attack-shark-g800-avznyvt-gyymyng-kotg31",
       "categories": [
         "אוזניות גיימינג"
       ],
@@ -147,19 +147,19 @@
       "sale_price": 129,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783350438929-aap2kn.webp",
-        "https://example.com/assets/product-1783350473168-bglc0l.webp",
-        "https://example.com/assets/product-1783350542939-6woeaj.webp",
-        "https://example.com/assets/product-1783350558041-0zrzr6.webp",
-        "https://example.com/assets/product-1783350595529-qua24k.webp",
-        "https://example.com/assets/product-1783350606761-o5ss4.webp",
-        "https://example.com/assets/product-1783350628336-1h2ipr.webp",
-        "https://example.com/assets/product-1783350650019-y5wdoe.webp",
-        "https://example.com/assets/product-1783350838792-330f2n.webp"
+        "https://mayo.zappy5.app/assets/product-1783350438929-aap2kn.webp",
+        "https://mayo.zappy5.app/assets/product-1783350473168-bglc0l.webp",
+        "https://mayo.zappy5.app/assets/product-1783350542939-6woeaj.webp",
+        "https://mayo.zappy5.app/assets/product-1783350558041-0zrzr6.webp",
+        "https://mayo.zappy5.app/assets/product-1783350595529-qua24k.webp",
+        "https://mayo.zappy5.app/assets/product-1783350606761-o5ss4.webp",
+        "https://mayo.zappy5.app/assets/product-1783350628336-1h2ipr.webp",
+        "https://mayo.zappy5.app/assets/product-1783350650019-y5wdoe.webp",
+        "https://mayo.zappy5.app/assets/product-1783350838792-330f2n.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pd-gyymyng-ktngdvlbynvny-x52iyv",
+      "url": "https://mayo.zappy5.app/product/pd-gyymyng-ktngdvlbynvny-x52iyv",
       "categories": [
         "פד גיימינג"
       ],
@@ -179,12 +179,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783281079617-9vd12.webp",
-        "https://example.com/assets/product-1783281089049-fedwfm.webp"
+        "https://mayo.zappy5.app/assets/product-1783281079617-9vd12.webp",
+        "https://mayo.zappy5.app/assets/product-1783281089049-fedwfm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/zrva-lmykrvpvn-414jgx",
+      "url": "https://mayo.zappy5.app/product/zrva-lmykrvpvn-414jgx",
       "categories": [
         "מיקרופון גיימינג"
       ],
@@ -204,13 +204,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783276086302-6wel7h.webp",
-        "https://example.com/assets/product-1783276099162-lzc2zh.webp",
-        "https://example.com/assets/product-1783276112860-18yfj4.webp"
+        "https://mayo.zappy5.app/assets/product-1783276086302-6wel7h.webp",
+        "https://mayo.zappy5.app/assets/product-1783276099162-lzc2zh.webp",
+        "https://mayo.zappy5.app/assets/product-1783276112860-18yfj4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/fifine-ampligame-am8-usbxlr-mnb91g",
+      "url": "https://mayo.zappy5.app/product/fifine-ampligame-am8-usbxlr-mnb91g",
       "categories": [
         "מיקרופון גיימינג"
       ],
@@ -230,19 +230,19 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783265783948-tgnbp.webp",
-        "https://example.com/assets/product-1783265917408-gx6r49.webp",
-        "https://example.com/assets/product-1783265928760-2rozr.webp",
-        "https://example.com/assets/product-1783265809403-i9wmta.webp",
-        "https://example.com/assets/product-1783265960267-sa9mcv.webp",
-        "https://example.com/assets/product-1783265903353-tav6cn.webp",
-        "https://example.com/assets/product-1783265796950-f5zujb.webp",
-        "https://example.com/assets/product-1783265939399-1nls0o.webp",
-        "https://example.com/assets/product-1783265821672-vz0ilr.webp"
+        "https://mayo.zappy5.app/assets/product-1783265783948-tgnbp.webp",
+        "https://mayo.zappy5.app/assets/product-1783265917408-gx6r49.webp",
+        "https://mayo.zappy5.app/assets/product-1783265928760-2rozr.webp",
+        "https://mayo.zappy5.app/assets/product-1783265809403-i9wmta.webp",
+        "https://mayo.zappy5.app/assets/product-1783265960267-sa9mcv.webp",
+        "https://mayo.zappy5.app/assets/product-1783265903353-tav6cn.webp",
+        "https://mayo.zappy5.app/assets/product-1783265796950-f5zujb.webp",
+        "https://mayo.zappy5.app/assets/product-1783265939399-1nls0o.webp",
+        "https://mayo.zappy5.app/assets/product-1783265821672-vz0ilr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pd-gyymyng-attack-shark-kh531o",
+      "url": "https://mayo.zappy5.app/product/pd-gyymyng-attack-shark-kh531o",
       "categories": [
         "פד גיימינג"
       ],
@@ -262,11 +262,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783265294586-201ca.webp"
+        "https://mayo.zappy5.app/assets/product-1783265294586-201ca.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pd-steelseries-qck-large-hno801",
+      "url": "https://mayo.zappy5.app/product/pd-steelseries-qck-large-hno801",
       "categories": [
         "פד גיימינג"
       ],
@@ -286,15 +286,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783260218345-vfr3j.webp",
-        "https://example.com/assets/product-1783260234490-hv1wv.webp",
-        "https://example.com/assets/product-1783260244961-uv1u9f.webp",
-        "https://example.com/assets/product-1783260254507-y0mp7a.webp",
-        "https://example.com/assets/product-1783260263502-imiasa.webp"
+        "https://mayo.zappy5.app/assets/product-1783260218345-vfr3j.webp",
+        "https://mayo.zappy5.app/assets/product-1783260234490-hv1wv.webp",
+        "https://mayo.zappy5.app/assets/product-1783260244961-uv1u9f.webp",
+        "https://mayo.zappy5.app/assets/product-1783260254507-y0mp7a.webp",
+        "https://mayo.zappy5.app/assets/product-1783260263502-imiasa.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pd-gyymyng-djxi9y",
+      "url": "https://mayo.zappy5.app/product/pd-gyymyng-djxi9y",
       "categories": [
         "פד גיימינג"
       ],
@@ -314,17 +314,17 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783253147879-3jnoum.webp",
-        "https://example.com/assets/product-1783254630575-wwcf.webp",
-        "https://example.com/assets/product-1783254731617-pqnq6p.webp",
-        "https://example.com/assets/product-1783254745362-hs0wsv.webp",
-        "https://example.com/assets/product-1783254806031-dqvja.webp",
-        "https://example.com/assets/product-1783254819272-2ykz1.webp",
-        "https://example.com/assets/product-1783254828661-7yuder.webp"
+        "https://mayo.zappy5.app/assets/product-1783253147879-3jnoum.webp",
+        "https://mayo.zappy5.app/assets/product-1783254630575-wwcf.webp",
+        "https://mayo.zappy5.app/assets/product-1783254731617-pqnq6p.webp",
+        "https://mayo.zappy5.app/assets/product-1783254745362-hs0wsv.webp",
+        "https://mayo.zappy5.app/assets/product-1783254806031-dqvja.webp",
+        "https://mayo.zappy5.app/assets/product-1783254819272-2ykz1.webp",
+        "https://mayo.zappy5.app/assets/product-1783254828661-7yuder.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pd-zkvkyt-eov0nu",
+      "url": "https://mayo.zappy5.app/product/pd-zkvkyt-eov0nu",
       "categories": [
         "פד גיימינג"
       ],
@@ -344,14 +344,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783206658779-m5cknk.webp",
-        "https://example.com/assets/product-1783206671524-d4m59.webp",
-        "https://example.com/assets/product-1783206682266-ma0rkg.webp",
-        "https://example.com/assets/product-1783206691371-r1drq9.webp"
+        "https://mayo.zappy5.app/assets/product-1783206658779-m5cknk.webp",
+        "https://mayo.zappy5.app/assets/product-1783206671524-d4m59.webp",
+        "https://mayo.zappy5.app/assets/product-1783206682266-ma0rkg.webp",
+        "https://mayo.zappy5.app/assets/product-1783206691371-r1drq9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-r3-dxqb0o",
+      "url": "https://mayo.zappy5.app/product/attack-shark-r3-dxqb0o",
       "categories": [
         "עכברי גיימינג"
       ],
@@ -371,17 +371,17 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783179439441-bwhjga.webp",
-        "https://example.com/assets/product-1783179388147-42u5uh.webp",
-        "https://example.com/assets/product-1783179400869-hkzn5h.webp",
-        "https://example.com/assets/product-1783179416194-z42cwi.webp",
-        "https://example.com/assets/product-1783179487085-siictv.webp",
-        "https://example.com/assets/product-1783179501620-hglse.webp",
-        "https://example.com/assets/product-1783179510720-7loud.webp"
+        "https://mayo.zappy5.app/assets/product-1783179439441-bwhjga.webp",
+        "https://mayo.zappy5.app/assets/product-1783179388147-42u5uh.webp",
+        "https://mayo.zappy5.app/assets/product-1783179400869-hkzn5h.webp",
+        "https://mayo.zappy5.app/assets/product-1783179416194-z42cwi.webp",
+        "https://mayo.zappy5.app/assets/product-1783179487085-siictv.webp",
+        "https://mayo.zappy5.app/assets/product-1783179501620-hglse.webp",
+        "https://mayo.zappy5.app/assets/product-1783179510720-7loud.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/aula-f75-bsx7p4",
+      "url": "https://mayo.zappy5.app/product/aula-f75-bsx7p4",
       "categories": [
         "מקלדות גיימינג"
       ],
@@ -401,13 +401,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783177315634-mi7t4.webp",
-        "https://example.com/assets/product-1783177326383-5vo7xq.webp",
-        "https://example.com/assets/product-1783177342468-7b6azb.webp"
+        "https://mayo.zappy5.app/assets/product-1783177315634-mi7t4.webp",
+        "https://mayo.zappy5.app/assets/product-1783177326383-5vo7xq.webp",
+        "https://mayo.zappy5.app/assets/product-1783177342468-7b6azb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/logitech-g-pro-x-superlight-3qetac",
+      "url": "https://mayo.zappy5.app/product/logitech-g-pro-x-superlight-3qetac",
       "categories": [
         "עכברי גיימינג"
       ],
@@ -427,19 +427,19 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783168933341-rrcujv.webp",
-        "https://example.com/assets/product-1783168956934-h71y9y.webp",
-        "https://example.com/assets/product-1783168967084-tk3sjr.webp",
-        "https://example.com/assets/product-1783168978366-f0m6p2.webp",
-        "https://example.com/assets/product-1783168998822-vyomm.webp",
-        "https://example.com/assets/product-1783195674024-1eolfgi.webp",
-        "https://example.com/assets/product-1783195686197-v3e0v.webp",
-        "https://example.com/assets/product-1783195699552-pf9zxn.webp",
-        "https://example.com/assets/product-1783195709606-f41j3.webp"
+        "https://mayo.zappy5.app/assets/product-1783168933341-rrcujv.webp",
+        "https://mayo.zappy5.app/assets/product-1783168956934-h71y9y.webp",
+        "https://mayo.zappy5.app/assets/product-1783168967084-tk3sjr.webp",
+        "https://mayo.zappy5.app/assets/product-1783168978366-f0m6p2.webp",
+        "https://mayo.zappy5.app/assets/product-1783168998822-vyomm.webp",
+        "https://mayo.zappy5.app/assets/product-1783195674024-1eolfgi.webp",
+        "https://mayo.zappy5.app/assets/product-1783195686197-v3e0v.webp",
+        "https://mayo.zappy5.app/assets/product-1783195699552-pf9zxn.webp",
+        "https://mayo.zappy5.app/assets/product-1783195709606-f41j3.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-x68he-q34bjw",
+      "url": "https://mayo.zappy5.app/product/attack-shark-x68he-q34bjw",
       "categories": [
         "מקלדות גיימינג"
       ],
@@ -459,16 +459,16 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783120947523-xnfrql.webp",
-        "https://example.com/assets/product-1783120961444-cqtzu.webp",
-        "https://example.com/assets/product-1783120981627-r3fhfs.webp",
-        "https://example.com/assets/product-1783121039999-seziwi.webp",
-        "https://example.com/assets/product-1783121118913-9dbkq.webp",
-        "https://example.com/assets/product-1783121130031-u36opn.webp"
+        "https://mayo.zappy5.app/assets/product-1783120947523-xnfrql.webp",
+        "https://mayo.zappy5.app/assets/product-1783120961444-cqtzu.webp",
+        "https://mayo.zappy5.app/assets/product-1783120981627-r3fhfs.webp",
+        "https://mayo.zappy5.app/assets/product-1783121039999-seziwi.webp",
+        "https://mayo.zappy5.app/assets/product-1783121118913-9dbkq.webp",
+        "https://mayo.zappy5.app/assets/product-1783121130031-u36opn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-x3-6oq7bj",
+      "url": "https://mayo.zappy5.app/product/attack-shark-x3-6oq7bj",
       "categories": [
         "עכברי גיימינג"
       ],
@@ -488,12 +488,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783119307333-7al91o.webp",
-        "https://example.com/assets/product-1783119317549-gjxsi7.webp"
+        "https://mayo.zappy5.app/assets/product-1783119307333-7al91o.webp",
+        "https://mayo.zappy5.app/assets/product-1783119317549-gjxsi7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-shark-x3-pro-tt4im8",
+      "url": "https://mayo.zappy5.app/product/attack-shark-x3-pro-tt4im8",
       "categories": [
         "עכברי גיימינג"
       ],
@@ -513,14 +513,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783117236082-o3j32k.webp",
-        "https://example.com/assets/product-1783117248855-2s8li.webp",
-        "https://example.com/assets/product-1783117260177-nxy5g.webp",
-        "https://example.com/assets/product-1783117271208-zeca0o.webp"
+        "https://mayo.zappy5.app/assets/product-1783117236082-o3j32k.webp",
+        "https://mayo.zappy5.app/assets/product-1783117248855-2s8li.webp",
+        "https://mayo.zappy5.app/assets/product-1783117260177-nxy5g.webp",
+        "https://mayo.zappy5.app/assets/product-1783117271208-zeca0o.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/attack-sharck-r5-ultra-bzp1go",
+      "url": "https://mayo.zappy5.app/product/attack-sharck-r5-ultra-bzp1go",
       "categories": [
         "עכברי גיימינג"
       ],

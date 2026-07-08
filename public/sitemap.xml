@@ -1,217 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
+    <loc>https://mayo.zappy5.app</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/reviews</loc>
+    <loc>https://mayo.zappy5.app/reviews</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/gear-guide</loc>
+    <loc>https://mayo.zappy5.app/gear-guide</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/about</loc>
+    <loc>https://mayo.zappy5.app/about</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/products</loc>
+    <loc>https://mayo.zappy5.app/products</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
+    <loc>https://mayo.zappy5.app/cart</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
+    <loc>https://mayo.zappy5.app/checkout</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/login</loc>
+    <loc>https://mayo.zappy5.app/login</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/account</loc>
+    <loc>https://mayo.zappy5.app/account</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
+    <loc>https://mayo.zappy5.app/order-success</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/product/:slug</loc>
+    <loc>https://mayo.zappy5.app/product/:slug</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
+    <loc>https://mayo.zappy5.app/category/:slug</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/thank-you</loc>
+    <loc>https://mayo.zappy5.app/thank-you</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
+    <loc>https://mayo.zappy5.app/contact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
+    <loc>https://mayo.zappy5.app/privacy</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
+    <loc>https://mayo.zappy5.app/terms</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-x6-oh1pp2</loc>
+    <loc>https://mayo.zappy5.app/accessibility</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mayo.zappy5.app/product/attack-shark-x6-oh1pp2</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-r1-gu1tnx</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-r1-gu1tnx</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-x11-wr7bey</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-x11-wr7bey</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-l80pro-btalud</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-l80pro-btalud</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-g800-avznyvt-gyymyng-kotg31</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-g800-avznyvt-gyymyng-kotg31</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pd-gyymyng-ktngdvlbynvny-x52iyv</loc>
+    <loc>https://mayo.zappy5.app/product/pd-gyymyng-ktngdvlbynvny-x52iyv</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/zrva-lmykrvpvn-414jgx</loc>
+    <loc>https://mayo.zappy5.app/product/zrva-lmykrvpvn-414jgx</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/fifine-ampligame-am8-usbxlr-mnb91g</loc>
+    <loc>https://mayo.zappy5.app/product/fifine-ampligame-am8-usbxlr-mnb91g</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pd-gyymyng-attack-shark-kh531o</loc>
+    <loc>https://mayo.zappy5.app/product/pd-gyymyng-attack-shark-kh531o</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pd-steelseries-qck-large-hno801</loc>
+    <loc>https://mayo.zappy5.app/product/pd-steelseries-qck-large-hno801</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pd-gyymyng-djxi9y</loc>
+    <loc>https://mayo.zappy5.app/product/pd-gyymyng-djxi9y</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pd-zkvkyt-eov0nu</loc>
+    <loc>https://mayo.zappy5.app/product/pd-zkvkyt-eov0nu</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-r3-dxqb0o</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-r3-dxqb0o</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/aula-f75-bsx7p4</loc>
+    <loc>https://mayo.zappy5.app/product/aula-f75-bsx7p4</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/logitech-g-pro-x-superlight-3qetac</loc>
+    <loc>https://mayo.zappy5.app/product/logitech-g-pro-x-superlight-3qetac</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-x68he-q34bjw</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-x68he-q34bjw</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-x3-6oq7bj</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-x3-6oq7bj</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-x3-pro-tt4im8</loc>
+    <loc>https://mayo.zappy5.app/product/attack-shark-x3-pro-tt4im8</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-sharck-r5-ultra-bzp1go</loc>
+    <loc>https://mayo.zappy5.app/product/attack-sharck-r5-ultra-bzp1go</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
