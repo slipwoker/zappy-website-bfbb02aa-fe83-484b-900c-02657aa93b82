@@ -10,6 +10,10 @@
 https://example.com
 MAYO מציעה מקלדות גיימינג, עכברים ומשטחים בעיצוב חדשני לגיימרים שרוצים לנצח. היכנסו עכשיו וגלו ציוד שישדרג כל לחיצה.
 
+### גיימרים מדברים, אנחנו מקשיבים — MAYO
+https://example.com/reviews
+ביקורות אמיתיות מהקהילה על מקלדות, עכברים ומשטחים של MAYO. גלו מה גיימרים חושבים ואיך הציוד שלנו שינה להם את המשחק. שתפו גם אתם.
+
 ### המדריך שיהפוך אתכם לאלופי חומרה — MAYO
 https://example.com/gear-guide
 איך בוחרים ציוד גיימינג שמתאים בדיוק לסגנון שלכם? במדריך של MAYO תמצאו טיפים מקצועיים, המלצות חמות והשוואות שיעשו סדר. קראו עוד.
@@ -18,39 +22,35 @@ https://example.com/gear-guide
 https://example.com/about
 MAYO נולדה מתוך תשוקה לגיימינג ורצון לשבור מוסכמות. הכירו את החזון, הצוות והמחויבות לאיכות ללא פשרות. הצטרפו למהפכת הגיימינג.
 
-### גיימרים מדברים, אנחנו מקשיבים — MAYO
-https://example.com/reviews
-ביקורות אמיתיות מהקהילה על מקלדות, עכברים ומשטחים של MAYO. גלו מה גיימרים חושבים ואיך הציוד שלנו שינה להם את המשחק. שתפו גם אתם.
-
-### Products
+### מוצרים
 https://example.com/products
 המוצרים שלנו - MAYO
 
-### Cart
+### עגלת קניות
 https://example.com/cart
 עגלת הקניות שלך
 
-### Checkout
+### תשלום
 https://example.com/checkout
 תשלום
 
-### Login
+### התחברות
 https://example.com/login
 התחברות לקוחות
 
-### Account
+### החשבון שלי
 https://example.com/account
 החשבון שלי
 
-### Order Success
+### ההזמנה התקבלה!
 https://example.com/order-success
 תודה על ההזמנה
 
-### Product Detail
+### פרטי המוצר
 https://example.com/product/:slug
 פרטי המוצר - MAYO
 
-### Category
+### מוצרים
 https://example.com/category/:slug
 מוצרים - MAYO
 
@@ -83,8 +83,8 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 19**
 
 ### attack shark x6
-https://example.com/product/attack-shark-x6-ixpzjy
-- Price: 1.00 ILS
+https://example.com/product/attack-shark-x6-oh1pp2
+- Price: 199.00 ILS
 - Availability: In stock
 - Category: עכברי גיימינג
 - Brand: attack shark
@@ -152,7 +152,7 @@ https://example.com/product/fifine-ampligame-am8-usbxlr-mnb91g
 - Image: https://example.com/assets/product-1783276086302-6wel7h.webp
 
 ### פד גיימינג ATTACK SHARK
-https://example.com/product/pd-gyymyng-attack-shark-0w3ubi
+https://example.com/product/pd-gyymyng-attack-shark-kh531o
 - Price: 119.00 ILS
 - Availability: In stock
 - Category: פד גיימינג

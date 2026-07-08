@@ -741,10 +741,10 @@
       <div class="search-wrapper">
         <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
         </button>
         <button class="close-search" id="close-mobile-search">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
         </button>
       </div>
       <div class="search-results" id="mobile-search-results"></div>
@@ -753,41 +753,38 @@
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
-      <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+      <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
     <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
-      <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+      <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
   <button class="phone-header-btn" data-phone="0533097779" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
     </svg>
   </button>
   <div class="nav-container">
     <div class="nav-right-group"><div class="nav-brand">
       <a href="/" class="logo-link"><img class="logo" src="/assets/site-----image-1.webp" alt="MAYO"></a>
-    </div><ul class="nav-menu" id="navMenu">
-
-    <li class="menu-item-has-children zappy-products-dropdown">
+    </div><ul class="nav-menu" id="navMenu"><li><a href="/reviews">ביקורות קהילה</a></li><li><a href="/gear-guide">מדריך ציוד</a></li><li><a href="/about">אודות MAYO</a></li><li class="menu-item-has-children zappy-products-dropdown">
       <a href="/products">
         מוצרים
         <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M6 9l6 6 6-6"></path>
+          <path d="M6 9l6 6 6-6"/>
         </svg>
       </a>
       <ul class="sub-menu" id="zappy-nav-category-links">
         <li><a href="/products" data-i18n="ecom_products">מוצרים</a></li>
         <!-- Categories will be loaded dynamically -->
       </ul>
-    </li>
-  <li><a href="/gear-guide">מדריך ציוד</a></li><li><a href="/about">אודות MAYO</a></li><li><a href="/reviews">ביקורות קהילה</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+    </li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
     
     
   </div>
@@ -1305,7 +1302,7 @@
         <div class="review-card-inner">
           <div class="review-quote-icon">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <p class="review-text">הגעתי ל-MAYO דרך חבר מהצוות, ומאז אני לא קונה במקום אחר. ההשוואה בין המקלדות באתר כל כך ברורה שהבנתי תוך דקה איזה דגם יתאים לי. המקלדת שהגיעה מרגישה מעולה, שקטה אבל עם פידבק מדויק — בדיוק מה שהייתי צריך.</p>
@@ -1324,7 +1321,7 @@
         <div class="review-card-inner">
           <div class="review-quote-icon">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <p class="review-text">חיפשתי פד לעכבר שיתאים לשולחן עבודה נקי וגם ייתן אחיזה טובה. הפד שהזמנתי מ-MAYO עונה בדיוק על הציפיות — חלק, גדול מספיק, והעיצוב המינימליסטי משתלב מעולה עם שאר הציוד. המשלוח היה מהיר והאריזה מושלמת.</p>
@@ -1343,7 +1340,7 @@
         <div class="review-card-inner">
           <div class="review-quote-icon">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <p class="review-text">אני אמא שקנתה לילד שלי עכבר גיימינג ליום הולדת. לא הבנתי כלום בהתחלה, אבל באתר MAYO הכל מוסבר פשוט, עם השוואות ברורות. הילד מאושר, העכבר נוח ואיכותי, ואני מרגישה שעשיתי קנייה חכמה בלי להתבלבל.</p>
@@ -1362,13 +1359,13 @@
         <div class="review-card-inner">
           <div class="review-quote-icon">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <p class="review-text">החלפתי את כל הסט-אפ שלי דרך MAYO — מקלדת, עכבר ופד. כל מוצר הגיע באריזה מושקעת, והביצועים במשחק השתפרו משמעותית. השירות לקוחות היה זמין ועזר לי לבחור את ההתאמה המושלמת לסגנון המשחק שלי.</p>
           <div class="review-footer">
             <div class="review-author-info">
-              <span class="review-author" >דניאל&nbsp; מאור</span>
+              <span class="review-author" style>דניאל&nbsp; מאור</span>
               
             </div>
             <p class="zappy-editable"><span class="review-badge">סט שלם</span>
@@ -1381,13 +1378,13 @@
         <div class="review-card-inner">
           <div class="review-quote-icon">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
-          <p class="review-text" >אני משחק בעיקר משחקי קז'ואל בערבים, ורציתי מקלדת שלא תרגיש כמו צעצוע אבל גם לא תהיה רועשת מדי. המקלדת שהזמנתי מ-MAYO מושלמת — תאורה יפה, הקלדה חלקה, ומרגישה ממש פרימיום. ממליץ בחום.</p>
+          <p class="review-text" style>אני משחק בעיקר משחקי קז'ואל בערבים, ורציתי מקלדת שלא תרגיש כמו צעצוע אבל גם לא תהיה רועשת מדי. המקלדת שהזמנתי מ-MAYO מושלמת — תאורה יפה, הקלדה חלקה, ומרגישה ממש פרימיום. ממליץ בחום.</p>
           <div class="review-footer">
             <div class="review-author-info">
-              <span class="review-author" >יוסי מזרחי</span>
+              <span class="review-author" style>יוסי מזרחי</span>
               
             </div>
             <p class="zappy-editable"><span class="review-badge">מקלדת RGB</span>
@@ -1400,7 +1397,7 @@
         <div class="review-card-inner">
           <div class="review-quote-icon">
             <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M10 11H6C5.46957 11 4.96086 10.7893 4.58579 10.4142C4.21071 10.0391 4 9.53043 4 9V7C4 6.46957 4.21071 5.96086 4.58579 5.58579C4.96086 5.21071 5.46957 5 6 5H8C8.53043 5 9.03914 5.21071 9.41421 5.58579C9.78929 5.96086 10 6.46957 10 7V11ZM20 11H16C15.4696 11 14.9609 10.7893 14.5858 10.4142C14.2107 10.0391 14 9.53043 14 9V7C14 6.46957 14.2107 5.96086 14.5858 5.58579C14.9609 5.21071 15.4696 5 16 5H18C18.5304 5 19.0391 5.21071 19.4142 5.58579C19.7893 5.96086 20 6.46957 20 7V11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <p class="review-text">האמת שהופתעתי לטובה. חיפשתי עכבר קל ונקי בלי יותר מדי כפתורים, ובאתר MAYO מצאתי בדיוק את מה שרציתי. ההזמנה הייתה פשוטה, המחיר הוגן, והעכבר הגיע תוך יומיים. מאז אני ממליץ לכל החברים שלי.</p>
@@ -1418,7 +1415,7 @@
   </div>
 </section>
 
-<section class="reviews-creator-spotlight-section" data-layout-spec="ביקורות קהילה-creator-spotlight"><div class="reviews-creator-spotlight-section__container"><div class="reviews-creator-spotlight-section__text"><h2 class="reviews-creator-spotlight-section__heading">הסטודיו שלך, הציוד שלנו</h2><p class="reviews-creator-spotlight-section__description">יוצרי תוכן וסטרימרים מבלים שעות ארוכות מול המצלמה והקהל. הציוד שלכם חייב להיות אמין, שקט, ומדויק — בלי רעשי רקע מיותרים, בלי הבהובי RGB שמסיחים את הדעת, ובלי פשרות על נוחות. MAYO מביאה לכם ציוד פרימיום שעובד איתכם, לא נגדכם.</p><ul class="reviews-creator-spotlight-section__benefits"><li class="reviews-creator-spotlight-section__benefit-item"><div class="reviews-creator-spotlight-section__benefit-icon-wrapper"><svg data-element-type="icon" data-icon-type="svg" class="reviews-creator-spotlight-section__benefit-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><span class="reviews-creator-spotlight-section__benefit-text">ביטחון שקט — מקשים ומתגים עם משוב מדויק וללא רעש מיותר</span></li><li class="reviews-creator-spotlight-section__benefit-item"><div class="reviews-creator-spotlight-section__benefit-icon-wrapper"><svg data-element-type="icon" data-icon-type="svg" class="reviews-creator-spotlight-section__benefit-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 15C15.3137 15 18 12.3137 18 9C18 5.68629 15.3137 3 12 3C8.68629 3 6 5.68629 6 9C6 12.3137 8.68629 15 12 15Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M2.90527 20.2491C3.82736 18.6531 5.15322 17.3278 6.74966 16.4064C8.34611 15.485 10.1569 15 12.0002 15C13.8434 15 15.6542 15.4851 17.2506 16.4065C18.847 17.3279 20.1729 18.6533 21.095 20.2493" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><span class="reviews-creator-spotlight-section__benefit-text">שליטה מוחלטת — עכבר עם חיישן אופטי מתקדם שמגיב לכל תנועה</span></li><li class="reviews-creator-spotlight-section__benefit-item"><div class="reviews-creator-spotlight-section__benefit-icon-wrapper"><svg data-element-type="icon" data-icon-type="svg" class="reviews-creator-spotlight-section__benefit-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15 10L11 14L9 12M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><span class="reviews-creator-spotlight-section__benefit-text">סטייל מול המצלמה — עיצוב נקי ומינימליסטי שמשתלב בכל סט צילום</span></li></ul></div><div class="reviews-creator-spotlight-section__image-wrapper"><img loading="eager" fetchpriority="high" data-placeholder="reviews-creator-spotlight-image-1" data-context="A clean, modern gaming desk setup with a minimalist mechanical keyboard, a sleek wireless gaming mouse, and a large desk mat, all in dark tones with subtle blue edge lighting. The scene is shot from a low angle in a dim studio environment with dramatic rim lighting, emphasizing the premium, clutter-free aesthetic suitable for content creators and streamers." width="600" height="400" src="/assets/site-reviews-creator-spotlight-image-1.webp" alt="שולחן עבודה של יוצר תוכן עם ציוד גיימינג נקי ומקצועי מבית MAYO" class="reviews-creator-spotlight-section__image"></div></div></section>
+<section class="reviews-creator-spotlight-section" data-layout-spec="ביקורות קהילה-creator-spotlight"><div class="reviews-creator-spotlight-section__container"><div class="reviews-creator-spotlight-section__text"><h2 class="reviews-creator-spotlight-section__heading">הסטודיו שלך, הציוד שלנו</h2><p class="reviews-creator-spotlight-section__description">יוצרי תוכן וסטרימרים מבלים שעות ארוכות מול המצלמה והקהל. הציוד שלכם חייב להיות אמין, שקט, ומדויק — בלי רעשי רקע מיותרים, בלי הבהובי RGB שמסיחים את הדעת, ובלי פשרות על נוחות. MAYO מביאה לכם ציוד פרימיום שעובד איתכם, לא נגדכם.</p><ul class="reviews-creator-spotlight-section__benefits"><li class="reviews-creator-spotlight-section__benefit-item"><div class="reviews-creator-spotlight-section__benefit-icon-wrapper"><svg data-element-type="icon" data-icon-type="svg" class="reviews-creator-spotlight-section__benefit-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><span class="reviews-creator-spotlight-section__benefit-text">ביטחון שקט — מקשים ומתגים עם משוב מדויק וללא רעש מיותר</span></li><li class="reviews-creator-spotlight-section__benefit-item"><div class="reviews-creator-spotlight-section__benefit-icon-wrapper"><svg data-element-type="icon" data-icon-type="svg" class="reviews-creator-spotlight-section__benefit-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 15C15.3137 15 18 12.3137 18 9C18 5.68629 15.3137 3 12 3C8.68629 3 6 5.68629 6 9C6 12.3137 8.68629 15 12 15Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M2.90527 20.2491C3.82736 18.6531 5.15322 17.3278 6.74966 16.4064C8.34611 15.485 10.1569 15 12.0002 15C13.8434 15 15.6542 15.4851 17.2506 16.4065C18.847 17.3279 20.1729 18.6533 21.095 20.2493" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><span class="reviews-creator-spotlight-section__benefit-text">שליטה מוחלטת — עכבר עם חיישן אופטי מתקדם שמגיב לכל תנועה</span></li><li class="reviews-creator-spotlight-section__benefit-item"><div class="reviews-creator-spotlight-section__benefit-icon-wrapper"><svg data-element-type="icon" data-icon-type="svg" class="reviews-creator-spotlight-section__benefit-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15 10L11 14L9 12M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><span class="reviews-creator-spotlight-section__benefit-text">סטייל מול המצלמה — עיצוב נקי ומינימליסטי שמשתלב בכל סט צילום</span></li></ul></div><div class="reviews-creator-spotlight-section__image-wrapper"><img loading="eager" fetchpriority="high" data-placeholder="reviews-creator-spotlight-image-1" data-context="A clean, modern gaming desk setup with a minimalist mechanical keyboard, a sleek wireless gaming mouse, and a large desk mat, all in dark tones with subtle blue edge lighting. The scene is shot from a low angle in a dim studio environment with dramatic rim lighting, emphasizing the premium, clutter-free aesthetic suitable for content creators and streamers." width="600" height="400" src="/assets/site-reviews-creator-spotlight-image-1.webp" alt="שולחן עבודה של יוצר תוכן עם ציוד גיימינג נקי ומקצועי מבית MAYO" class="reviews-creator-spotlight-section__image"></div></div></section>
 
 <section class="reviews-rating-themes-section" data-layout-spec="ביקורות קהילה-rating-themes" dir="rtl">
   <div class="reviews-rating-themes-section__container">
@@ -1433,10 +1430,10 @@
         <div class="reviews-rating-themes-section__card-header">
           <div class="reviews-rating-themes-section__icon-wrapper">
             <svg data-element-type="icon" data-icon-type="svg" class="reviews-rating-themes-section__icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-              <path d="M8 14C8 14 9.5 16 12 16C14.5 16 16 14 16 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-              <path d="M9 9H9.01" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-              <path d="M15 9H15.01" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M8 14C8 14 9.5 16 12 16C14.5 16 16 14 16 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M9 9H9.01" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M15 9H15.01" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <div class="reviews-rating-themes-section__card-text">
@@ -1455,7 +1452,7 @@
         <div class="reviews-rating-themes-section__card-header">
           <div class="reviews-rating-themes-section__icon-wrapper">
             <svg data-element-type="icon" data-icon-type="svg" class="reviews-rating-themes-section__icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <div class="reviews-rating-themes-section__card-text">
@@ -1474,8 +1471,8 @@
         <div class="reviews-rating-themes-section__card-header">
           <div class="reviews-rating-themes-section__icon-wrapper">
             <svg data-element-type="icon" data-icon-type="svg" class="reviews-rating-themes-section__icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M1 12C1 12 5 4 12 4C19 4 23 12 23 12C23 12 19 20 12 20C5 20 1 12 1 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-              <path d="M12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12C9 13.6569 10.3431 15 12 15Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M1 12C1 12 5 4 12 4C19 4 23 12 23 12C23 12 19 20 12 20C5 20 1 12 1 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12C9 13.6569 10.3431 15 12 15Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <div class="reviews-rating-themes-section__card-text">
@@ -1494,10 +1491,10 @@
         <div class="reviews-rating-themes-section__card-header">
           <div class="reviews-rating-themes-section__icon-wrapper">
             <svg data-element-type="icon" data-icon-type="svg" class="reviews-rating-themes-section__icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M20 7H4C2.89543 7 2 7.89543 2 9V15C2 16.1046 2.89543 17 4 17H20C21.1046 17 22 16.1046 22 15V9C22 7.89543 21.1046 7 20 7Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-              <path d="M22 9H2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-              <path d="M6 17V21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-              <path d="M18 17V21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M20 7H4C2.89543 7 2 7.89543 2 9V15C2 16.1046 2.89543 17 4 17H20C21.1046 17 22 16.1046 22 15V9C22 7.89543 21.1046 7 20 7Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M22 9H2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M6 17V21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M18 17V21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
           <div class="reviews-rating-themes-section__card-text">
@@ -1522,7 +1519,7 @@
       
       <!-- Company Info -->
       <div class="footer-col footer-company-col">
-        <img src="/assets/mayo-gaming-e-commerce-logo.webp" alt="MAYO" class="logo" data-element-type="image" data-element-id="img-1783118626620-922tiic5f" data-zappy-footer-image="true" >
+        <img src="/assets/mayo-gaming-e-commerce-logo.webp" alt="MAYO" class="logo" data-element-type="image" data-element-id="img-1783118626620-922tiic5f" data-zappy-footer-image="true" style>
         <p class="footer-tagline" style="color: rgb(0, 0, 0) !important;">ציוד גיימינג איכותי במחירים הוגנים – MAYO מביאה לכם את הציוד הכי חם עם ביקורות אמת ושירות ללא פשרות.</p>
       </div>
 
@@ -1541,19 +1538,19 @@
       <!-- Contact Info -->
       <div class="footer-col footer-contact-col">
         <h4 style="color: rgb(0, 0, 0) !important;">צור קשר</h4>
-        <ul class="footer-contact" ><li style="color: rgb(0, 0, 0) !important;">
+        <ul class="footer-contact" style><li style="color: rgb(0, 0, 0) !important;">
             <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1783118626617-qt30ilnqn" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
             <span class="contact-text"><a href="mailto:mayoshop48@gmail.com">mayoshop48@gmail.com</a></span>
           </li><li style="color: rgb(0, 0, 0) !important;">
             <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1783118626618-7hef15nbn" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
             <span class="contact-text"><a href="tel:0533097779">0533097779</a></span>
-          </li><li style="color: rgb(0, 0, 0) !important;"><a href="https://www.google.com/maps/search/?api=1&amp;query=Kibuts%20Galuyot%20St%2010%2C%20Holon%2C%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C" target="_blank" rel="noopener noreferrer" ><span class="contact-icon"><i class="fas fa-map-marker-alt" data-element-type="icon" data-element-id="icon-1783118626618-kslus6f20" data-icon-type="fontawesome" style="cursor: pointer;"></i></span></a></li></ul>
+          </li><li style="color: rgb(0, 0, 0) !important;"><a href="https://www.google.com/maps/search/?api=1&amp;query=Kibuts%20Galuyot%20St%2010%2C%20Holon%2C%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C" target="_blank" rel="noopener noreferrer" style><span class="contact-icon"><i class="fas fa-map-marker-alt" data-element-type="icon" data-element-id="icon-1783118626618-kslus6f20" data-icon-type="fontawesome" style="cursor: pointer;"></i></span></a></li></ul>
       </div>
 
       <!-- Business Hours -->
       <div class="footer-col footer-hours-col">
         <h4 style="color: rgb(0, 0, 0) !important;">שעות פעילות</h4>
-        <ul class="footer-hours" ><li style="color: rgb(0, 0, 0) !important;"><a href="/" ><span class="hours-day">יום ו</span>&nbsp;<font color="#ffffff"><span style="font-size: 13.6px; background-color: rgba(163, 230, 53, 0.1);"><b>&nbsp;9-18:00</b></span></font></a></li><li style="color: rgb(0, 0, 0) !important;"><a href="/" ><span class="hours-day">ימים א-ה</span><span class="hours-time">09:00–00:00</span></a></li><li style="color: rgb(0, 0, 0) !important;"><a href="/"><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></a></li></ul>
+        <ul class="footer-hours" style><li style="color: rgb(0, 0, 0) !important;"><a href="/" style><span class="hours-day">יום ו</span>&nbsp;<font color="#ffffff"><span style="font-size: 13.6px; background-color: rgba(163, 230, 53, 0.1);"><b>&nbsp;9-18:00</b></span></font></a></li><li style="color: rgb(0, 0, 0) !important;"><a href="/" style><span class="hours-day">ימים א-ה</span><span class="hours-time">09:00–00:00</span></a></li><li style="color: rgb(0, 0, 0) !important;"><a href="/"><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></a></li></ul>
       </div>
 
       <!-- Social Media -->
@@ -1562,7 +1559,7 @@
         <div class="footer-social">
           <a href="#" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f"></i></a>
           <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1783118626618-3bzl2m1qw" data-icon-type="fontawesome"></i></a>
-          <a href="https://vt.tiktok.com/ZSC4vyq2T/" aria-label="WhatsApp" data-zappy-social-placeholder="true" data-zappy-original-link="true" data-zappy-orig-href="#" data-zappy-orig-target="" data-zappy-orig-rel="" data-zappy-click-action="link" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="28" height="28" viewBox="0 0 48 48" data-icon="streamline-plump:tiktok-solid" data-iconify="streamline-plump:tiktok-solid" data-element-type="icon" data-element-id="icon-1783118626618-fbxaso5hu" data-icon-type="iconify" data-size-adjusted="true" style="width: 28px !important; height: 28px !important; display: inline-block; vertical-align: -0.125em; color: rgb(27, 58, 92); cursor: pointer;" class="iconify iconify--streamline-plump" data-zappy-click-action="link"><path fill="currentColor" d="M25.076 1.498c-.939 0-1.74.14-2.342.297c-.977.254-1.51 1.159-1.53 2.07l-.644 29.938v.01c0 1.973-1.579 3.562-3.515 3.562s-3.515-1.59-3.515-3.562c0-1.048.376-1.837.959-2.405c.59-.576 1.42-.947 2.35-1.09c.716-.11 1.381-.68 1.42-1.497l.283-6.123c.039-.845-.642-1.594-1.533-1.532C10.322 21.631 4.5 26.42 4.5 33.813c0 7 5.611 12.685 12.545 12.685s12.546-5.684 12.546-12.685l-.327-15.205c3.134 2.06 7.633 3.279 11.79 3.488c.934.047 2.001-.381 2.266-1.485c.106-.439.18-.995.18-1.69s-.074-1.25-.18-1.69c-.265-1.104-1.337-1.49-2.181-1.587c-2.896-.338-5.736-1.872-7.956-4.054s-3.784-4.976-4.17-7.787c-.117-.847-.613-1.752-1.597-2.008a9.3 9.3 0 0 0-2.34-.297"></path></svg></a>
+          <a href="https://vt.tiktok.com/ZSC4vyq2T/" aria-label="WhatsApp" data-zappy-social-placeholder="true" data-zappy-original-link="true" data-zappy-orig-href="#" data-zappy-orig-target data-zappy-orig-rel data-zappy-click-action="link" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="28" height="28" viewBox="0 0 48 48" data-icon="streamline-plump:tiktok-solid" data-iconify="streamline-plump:tiktok-solid" data-element-type="icon" data-element-id="icon-1783118626618-fbxaso5hu" data-icon-type="iconify" data-size-adjusted="true" style="width: 28px !important; height: 28px !important; display: inline-block; vertical-align: -0.125em; color: rgb(27, 58, 92); cursor: pointer;" class="iconify iconify--streamline-plump" data-zappy-click-action="link"><path fill="currentColor" d="M25.076 1.498c-.939 0-1.74.14-2.342.297c-.977.254-1.51 1.159-1.53 2.07l-.644 29.938v.01c0 1.973-1.579 3.562-3.515 3.562s-3.515-1.59-3.515-3.562c0-1.048.376-1.837.959-2.405c.59-.576 1.42-.947 2.35-1.09c.716-.11 1.381-.68 1.42-1.497l.283-6.123c.039-.845-.642-1.594-1.533-1.532C10.322 21.631 4.5 26.42 4.5 33.813c0 7 5.611 12.685 12.545 12.685s12.546-5.684 12.546-12.685l-.327-15.205c3.134 2.06 7.633 3.279 11.79 3.488c.934.047 2.001-.381 2.266-1.485c.106-.439.18-.995.18-1.69s-.074-1.25-.18-1.69c-.265-1.104-1.337-1.49-2.181-1.587c-2.896-.338-5.736-1.872-7.956-4.054s-3.784-4.976-4.17-7.787c-.117-.847-.613-1.752-1.597-2.008a9.3 9.3 0 0 0-2.34-.297"/></svg></a>
         </div>
       </div>
 
@@ -1590,10 +1587,10 @@
     <i class="fab fa-whatsapp"></i>
   </a>
   
-  <div class="zappy-qv-overlay" id="zappy-qv-overlay" hidden=""></div>
-<div class="zappy-qv-modal" id="zappy-qv-modal" role="dialog" aria-modal="true" aria-label="תצוגה מהירה" hidden="">
+  <div class="zappy-qv-overlay" id="zappy-qv-overlay" hidden></div>
+<div class="zappy-qv-modal" id="zappy-qv-modal" role="dialog" aria-modal="true" aria-label="תצוגה מהירה" hidden>
   <button type="button" class="zappy-qv-close" id="zappy-qv-close" aria-label="סגור">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
   </button>
   <div class="zappy-qv-content" id="zappy-qv-content"></div>
 </div>

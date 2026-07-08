@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://example.com/reviews</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://example.com/gear-guide</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,12 +20,6 @@
   </url>
   <url>
     <loc>https://example.com/about</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://example.com/reviews</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -103,7 +103,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/product/attack-shark-x6-ixpzjy</loc>
+    <loc>https://example.com/product/attack-shark-x6-oh1pp2</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -151,8 +151,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pd-gyymyng-attack-shark-0w3ubi</loc>
-    <lastmod>2026-07-05</lastmod>
+    <loc>https://example.com/product/pd-gyymyng-attack-shark-kh531o</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
