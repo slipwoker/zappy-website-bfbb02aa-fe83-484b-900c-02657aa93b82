@@ -1,10 +1,88 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T23:56:31.279Z",
+  "generated_at": "2026-07-08T17:37:16.813Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 16,
+  "count": 19,
   "products": [
+    {
+      "id": "df425eb9-4a5d-48a0-9c02-bdf318d9c627",
+      "slug": "attack-shark-x6-ixpzjy",
+      "name": "attack shark x6",
+      "name_translations": {},
+      "description": "<p><strong>🔥 עכבר גיימינג אלחוטי אולטרה-קל Attack Shark X6 עם עמדת טעינה 🔥</strong></p><p>הכירו את העכבר שיעניק לכם את השילוב המנצח בין המשקל הקל ביותר לביצועים החזקים ביותר בשוק. ה-Attack Shark X6 נבנה במיוחד עבור גיימרים שרוצים תגובה מהירה במיקרו-שנייה, אחיזה מושלמת ומראה יוקרתי על השולחן.</p><p><strong>👑 למה ה-X6 הוא העכבר המטורף ביותר שתוכלו להשיג?</strong></p><ul><li><strong>משקל נוצה קיצוני (49 גרם):</strong> אחד העכברים הקלים ביותר בעולם! תנועה חלקה וקלה בטירוף שלא מעייפת את היד ומאפשרת לכם לעשות Flicks ואיפוס כוונת במהירות הבזק.</li><li><strong>תחנת עגינה מגנטית יוקרתית (Charging Dock):</strong> נפרדים מהכבלים המציקים. המארז כולל מעמד טעינה מגנטי מעוצב עם תאורת RGB – פשוט מניחים את העכבר על המעמד בסוף המשחק והוא נטען לבד.</li><li><strong>חיישן הדגל PAW3395:</strong> הדיוק הכי גבוה שיש כיום לעכברי גיימינג תחרותיים. אפס דיליי, אפס קפיצות – ה-Aim שלכם הולך להיות מדויק כמו לייזר.</li><li><strong>חיבור משולש (3-Mode):</strong> חופש בחירה מלא בין חיבור אלחוטי 2.4GHz יציב למשחקים, חיבור Bluetooth למחשבים ניידים, או חיבור חוטי עם כבל Type-C.</li><li><strong>סוללה חזקה וסוויצ'ים עמידים:</strong> לחצני Huano איכותיים שמחזיקים מעמד ל-80 מיליון לחיצות וסוללה שמחזיקה מעמד לטווח ארוך.</li></ul><p><strong>📦 מה מקבלים בחבילה?</strong></p><ul><li>עכבר גיימינג אלחוטי Attack Shark X6</li><li>תחנת עגינה מגנטית לטעינה מהירה עם תאורת RGB</li><li>מקלט אלחוטי USB (דונגל)</li><li>כבל Type-C איכותי לטעינה ולמשחק חוטי</li><li>מדריך למשתמש</li></ul>",
+      "short_description": "עכבר גיימינג אלחוטי Attack Shark X6 – השילוב המושלם של מהירות ויוקרה!\nרוצה את היתרון המקסימלי במשחק? ה-X6 הוא חיית ביצועים: חיישן ה-PAW3395 המקצועי ביותר בשוק לדיוק חסר פשרות, משקל נוצה משוגע של 49 גרם בלבד לתנועות בזק, ותחנת עגינה מגנטית לטעינה עם תאורת RGB שתהפוך את הסטאפ שלך למטורף. זהו העכבר המושלם לגיימרים תחרותיים שרוצים הכל, במחיר ששובר את השוק בארץ.",
+      "sku": null,
+      "brand": "attack shark",
+      "price": 1,
+      "base_price": 1,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783470938090-obnxhg.webp",
+        "https://example.com/assets/product-1783470948215-ys45ms.webp",
+        "https://example.com/assets/product-1783470974754-mosgw9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/attack-shark-x6-ixpzjy",
+      "categories": [
+        "עכברי גיימינג"
+      ],
+      "updated_at": "2026-07-08T17:24:37.760Z"
+    },
+    {
+      "id": "b12c3d02-1a7c-41f1-b4a8-b3bc22c9304f",
+      "slug": "attack-shark-r1-gu1tnx",
+      "name": "attack shark r1",
+      "name_translations": {},
+      "description": "<p><strong>🔥 עכבר גיימינג אלחוטי סופר-קל Attack Shark R1 🔥</strong></p><p>תגיד שלום לעכבר שישנה לך את הדרך שבה אתה משחק! ה-Attack Shark R1 מעניק לך ביצועים של עכברי פרמיום שעולים מאות שקלים, במבנה ארגונומי קל משקל שמעוצב במיוחד בשביל גיימרים שלא מתפשרים על הדיוק שלהם.</p><p><strong>👑 המאפיינים שיעשו לך את ה-Setup:</strong></p><ul><li><strong>חיישן הדגל המקצועי:</strong> מצויד בחיישן מתקדם ורגיש במיוחד, המבטיח שכל תנועה קטנה של היד שלך תתורגם מיד למשחק באפס דיליי (Lag).</li><li><strong>משקל נוצה ארגונומי:</strong> מבנה קל משקל בטירוף שמפחית את העייפות של כף היד ומאפשר לך לבצע תנועות מהירות וחדות (Flicks) בקלות מטורפת.</li><li><strong>חופש אלחוטי מלא:</strong> חיבור אלחוטי יציב ומהיר במיוחד למשחק חלק, לצד אפשרות חיבור עם כבל Type-C איכותי.</li><li><strong>סוללה חזקה ואמינה:</strong> מעניקה לך שעות ארוכות של גיימינג רציף בלי שום דאגות באמצע הסשן.</li><li><strong>עיצוב ארגונומי מושלם:</strong> מתאים בצורה מדויקת לכף היד ומעניק אחיזה יציבה ונוחה גם ברגעים הכי לחוצים של המשחק.</li></ul><p><strong>📦 מה מקבלים בחבילה?</strong></p><ul><li>עכבר גיימינג אלחוטי Attack Shark R1</li><li>מקלט אלחוטי USB (דונגל)</li><li>כבל Type-C איכותי לטעינה ולמשחק חוטי</li><li>מדריך למשתמש</li></ul>",
+      "short_description": "עכבר גיימינג אלחוטי Attack Shark R1 – משקל אפס, ביצועים מקסימליים!\nמחפש עכבר שיעזור לך לקרוע את השרתים בפורטנייט או בסיג'? ה-R1 הוא עכבר אלחוטי ארגונומי וקל משקל בטירוף, שמגיע עם החיישן המקצועי ביותר בשוק לדיוק מושלם של ה-Aim. המשקל האפסי שלו מעניק לך מהירות תגובה מטורפת בכל תנועה, במחיר ששובר את השוק בארץ.",
+      "sku": null,
+      "brand": "attack shark",
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783469956648-re6lrw.webp",
+        "https://example.com/assets/product-1783469967367-ei4336.webp",
+        "https://example.com/assets/product-1783469977985-pzqa4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/attack-shark-r1-gu1tnx",
+      "categories": [
+        "עכברי גיימינג"
+      ],
+      "updated_at": "2026-07-08T00:24:02.350Z"
+    },
+    {
+      "id": "c5745166-883e-4faa-b401-b2b631a8b0bf",
+      "slug": "attack-shark-x11-wr7bey",
+      "name": "attack shark x11",
+      "name_translations": {},
+      "description": "<p><strong>🔥 עכבר גיימינג אלחוטי Attack Shark X11 עם עמדת טעינה מגנטית 🔥</strong></p><p>קח את המשחק שלך לשלב הבא עם אחד מעכברי הגיימינג המשתלמים והמתקדמים ביותר בשוק! ה-Attack Shark X11 מעניק לך חופש אלחוטי מלא, דיוק מקסימלי ומראה מטורף שייקח את הסטאפ שלך כמה רמות למעלה.</p><p><strong>👑 למה ה-X11 הוא העכבר המושלם בשבילך?</strong></p><ul><li><strong>תחנת עגינה מגנטית לטעינה (Charging Dock):</strong> נמאס לך מכבלים שמפריעים על השולחן? ה-X11 מגיע עם מעמד טעינה מגנטי יוקרתי הכולל תאורת RGB. פשוט מניחים את העכבר על המעמד בסוף המשחק, והוא נטען מעצמו!</li><li><strong>משקל קל במיוחד:</strong> תנועות מהירות ונוחות מקסימלית ליד, גם בסשנים ארוכים של משחק תחרותי.</li><li><strong>חיישן פיקסל-פרפקט:</strong> דיוק חסר פשרות שמגיב לכל תנועה קטנה שלך במיקרו-שנייה.</li><li><strong>סוללה חזקה במיוחד:</strong> שעות על גבי שעות של גיימינג רציף בלי לחשוב על טעינה.</li><li><strong>חיבור אלחוטי יציב:</strong> אפס דיליי (Lag) לחוויית משחק חלקה ומהירה.</li></ul><p><strong>📦 מה מקבלים בחבילה?</strong></p><ul><li>עכבר גיימינג אלחוטי Attack Shark X11</li><li>תחנת עגינה מגנטית לטעינה מהירה עם תאורת RGB</li><li>כבל כבל Type-C איכותי</li><li>מדריך למשתמש</li></ul>",
+      "short_description": "עכבר גיימינג אלחוטי Attack Shark X11 – חיית ביצועים לעמדה שלך!\nמחפש את היתרון שיקפיץ לך את ה-Aim בפורטנייט או בסיג'? ה-X11 הוא עכבר אלחוטי קל משקל בטירוף, שמגיע עם חיישן מדויק, סוללה חזקה ותחנת עגינה מגנטית לטעינה מהירה עם תאורת RGB מטורפת. ביצועים של עכבר ב-400 ש\"ח, במחיר שמתאים לכל גיימר.",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783469372177-6mvtbm.webp",
+        "https://example.com/assets/product-1783469382098-p4tk95.webp",
+        "https://example.com/assets/product-1783469392285-93rw1r.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/attack-shark-x11-wr7bey",
+      "categories": [
+        "עכברי גיימינג"
+      ],
+      "updated_at": "2026-07-08T00:13:31.836Z"
+    },
     {
       "id": "73d2334b-a2ba-4f31-9d6e-846f99f273b7",
       "slug": "attack-shark-l80pro-btalud",
@@ -57,7 +135,7 @@
     },
     {
       "id": "fe722dbb-78b4-4101-a158-ad73e3d15625",
-      "slug": "pd-gyymyng-ktngdvlbynvny-fijl2e",
+      "slug": "pd-gyymyng-ktngdvlbynvny-x52iyv",
       "name": "פד גיימינג קטן\\גדול\\בינוני",
       "name_translations": {},
       "description": "<p><strong>המשטח המושלם לעמדה שלכם: שילוב מנצח של סטייל, נוחות וביצועים</strong></p><p>מחפשים את השדרוג המושלם ל-Setup? משטחי העכבר הטופוגרפיים שלנו עוצבו במיוחד עבור גיימרים, יושבי שולחן ויוצרי תוכן שאינם מוכנים להתפשר על דיוק ונוחות. עם טקסטורת קווי גובה ייחודית ומודרנית, העמדה שלכם הולכת למשוך את כל המבטים.</p><p>🚀 למה זה המשטח המושלם עבורכם?</p><ul><li><strong>בד Speed/Control מתקדם:</strong> מרקם בד צפוף ואיכותי המבטיח תנועת עכבר מהירה, חלקה ומדויקת להפליא – מושלם למשחקי FPS תחרותיים כמו Valorant, CS:GO ו-Fortnite.</li><li><strong>יציבות מוחלטת (Anti-Slip):</strong> בסיס גומי טבעי בעל אחיזה חזקה המונע כל תזוזה או קיפול של המשטח, גם ברגעים הכי קריטיים ומותחים של המשחק.</li><li><strong>עמידות ארוכת טווח (Stitched Edges):</strong> תפירה היקפית כפולה ואיכותית לאורך כל קצוות המשטח המונעת פרימה ושומרת עליו במצב חדש לאורך שנים.</li><li><strong>חסינות לנוזלים וניקוי קל:</strong> חומרים מתקדמים הדוחים נוזלים וזיעה. נשפך לכם המשקה במהלך הקרב? אין בעיה! ניגוב מהיר וקל בעזרת מטלית לחה, והמשטח נקי ויבש.</li></ul><p>📏 גדלים זמינים לבחירה:</p><ol><li><strong>קטן (220x180x2mm):</strong> פתרון קומפקטי ונוח לעכבר בלבד, מעולה למשרד או לעבודה עם לפטופ בדרכים.</li><li><strong>בינוני (800x300x3mm):</strong> משטח מוארך ברוחב 80 ס\"מ בעובי פרימיום נוח, המכיל בקלות את המקלדת והעכבר שלכם יחד.</li><li><strong>גדול (900x400x3mm) - מומלץ לגיימירם! 🔥:</strong> הגודל האולטימטיבי שמכסה את השולחן מקצה לקצה (90 ס\"מ רוחב על 40 ס\"מ אורך). מעניק מרחב תנועה מקסימלי לעכבר ומראה Setup מקצועי כמו של הסטרימרים הגדולים.</li></ol>",
@@ -81,9 +159,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pd-gyymyng-ktngdvlbynvny-fijl2e",
-      "categories": [],
-      "updated_at": "2026-07-06T15:57:27.674Z"
+      "url": "https://example.com/product/pd-gyymyng-ktngdvlbynvny-x52iyv",
+      "categories": [
+        "פד גיימינג"
+      ],
+      "updated_at": "2026-07-08T00:39:56.739Z"
     },
     {
       "id": "dd0531f0-e6f2-40fc-82ef-f7601b2130e9",
@@ -112,7 +192,7 @@
     },
     {
       "id": "dce28060-1e35-402e-9712-e07dab0fbf08",
-      "slug": "fifine-ampligame-am8-usbxlr-xpvzo2",
+      "slug": "fifine-ampligame-am8-usbxlr-mnb91g",
       "name": "Fifine AmpliGame AM8 USB/XLR",
       "name_translations": {},
       "description": "<p><strong>מיקרופון גיימינג וסטרימינג מקצועי Fifine AmpliGame AM8 USB/XLR – הסאונד שלכם מעולם לא נשמע טוב יותר</strong></p><p>תשתדרגו לסאונד של המקצוענים עם ה-Fifine AmpliGame AM8! מיקרופון דינמי מתקדמם המציע שילוב נדיר של חיבור כפול (USB ו-XLR) ותאורת RGB מטורפת. הוא עוצב במיוחד עבור גיימרים, סטרימרים ויוצרי תוכן שרוצים קול צלול ונקי מרעשי רקע, מבלי לקרוע את הכיס.</p><p><strong>למה ה-Fifine AM8 הוא הבחירה המושלמת עבורכם?</strong></p><ul><li><strong>טכנולוגיית קפסולה דינמית:</strong> המיקרופון מתמקד בקול שלכם ומסנן אוטומטית רעשי מקלדת, עכבר ומזגן מסביב.</li><li><strong>חיבור כפול חכם (USB / XLR):</strong> חיבור Plug &amp; Play מהיר עם כבל USB למחשב או ל-PlayStation, לצד חיבור XLR מקצועי לחיבור לכרטיסי קול ומיקסרים בעתיד.</li><li><strong>תאורת RGB דינמית:</strong> פס תאורה מובנה בתחתית המיקרופון עם 3 מצבי תאורת אווירה משתנים ומעל 10 צבעים שונים שישדרגו לכם את ה-Setup.</li><li><strong>שליטה מלאה בהישג יד:</strong> כפתורי מגע להשתקה מהירה (Mute) וחוגות פיזיות לשליטה על עוצמת המיקרופון (Gain) ועוצמת השמע באוזניות.</li><li><strong>האזנה בזמן אמת:</strong> חיבור אוזניות מובנה (3.5 מ\"מ) המאפשר לכם לשמוע את עצמכם ללא כל דיליי (Zero-Latency).</li><li><strong>מוכן לעבודה מהקופסה:</strong> מגיע עם מעמד שולחני עגול ויציב בעל תושבת Shock Mount מובנית לבלימת זעזועים.</li></ul>",
@@ -130,11 +210,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/fifine-ampligame-am8-usbxlr-xpvzo2",
+      "url": "https://example.com/product/fifine-ampligame-am8-usbxlr-mnb91g",
       "categories": [
         "מיקרופון גיימינג"
       ],
-      "updated_at": "2026-07-07T22:44:09.080Z"
+      "updated_at": "2026-07-08T00:27:45.745Z"
     },
     {
       "id": "967baf42-3e02-411b-8b8a-17f03d62dd61",
